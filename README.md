@@ -1,0 +1,1 @@
+Please stay tuned as we move our codebase and resources to this location for the use and collaboration of our community.  In the meantime, please join our [Discord Server](https://discord.gg/DVpnTzzYqr) to participate in our discussion about ThermoFlex and Nitinol Actuators.
