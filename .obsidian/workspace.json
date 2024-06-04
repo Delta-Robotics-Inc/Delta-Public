@@ -11,8 +11,12 @@
             "id": "0b4f63752492b466",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "testing Obsidian to Gitbook.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testing Obsidian to Gitbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testing Obsidian to Gitbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing.md"
+                "file": "testing Obsidian to Gitbook.md"
               }
             }
           }
@@ -140,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c0f1628b9cc8858",
+  "active": "0b4f63752492b466",
   "lastOpenFiles": [
-    "testing.md"
+    "testing.md",
+    "testing Obsidian to Gitbook.md"
   ]
 }
