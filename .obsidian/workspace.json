@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ca39b21c07b571",
+        "id": "070f935ac161f415",
         "type": "tabs",
         "children": [
           {
-            "id": "0b4f63752492b466",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f17e1840630cb90b",
+            "id": "2962909f2b9e422f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing excel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55b67aa219fa6d12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing.md",
+                "file": "testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "testing.md"
               }
             }
           }
@@ -167,17 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55b67aa219fa6d12",
+  "active": "7c0f1628b9cc8858",
   "lastOpenFiles": [
-    "Testing.md",
+    "testing.md",
     "testing excel.md",
+    "Testing.md",
+    "Docs Released/testing-obsidian-to-gitbook.md",
+    "Docs Released/testing-infront-of-kevin.md",
+    "Docs Released/SUMMARY.md",
+    "Docs Released/README.md",
     "testing infront of kevin.md",
     "testing Obsidian to Gitbook.md",
     "~$ec Sheet Needs.docx",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
     "Spec Sheet Needs.docx",
-    "Spec Sheet Needs.pdf",
-    "testing.md"
+    "Spec Sheet Needs.pdf"
   ]
 }
