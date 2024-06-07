@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Internal Documents Testbed](README.md)
+* [Documents Testbed](README.md)
