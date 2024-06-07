@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2962909f2b9e422f",
+            "id": "12f783f64b97de66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test01.md",
+                "file": "docs-released/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test01.md",
+                "file": "docs-released/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test01.md",
+                "file": "docs-released/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test01.md"
+                "file": "docs-released/README.md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2962909f2b9e422f",
+  "active": "12f783f64b97de66",
   "lastOpenFiles": [
     "docs-internal/testing excel.md",
-    "docs-internal",
     "docs-released/testing-obsidian-to-gitbook.md",
     "docs-released/testing-infront-of-kevin.md",
     "docs-released/testing-excel.md",
+    "test01.md",
+    "testing excel.md",
+    "docs-internal",
     "docs-released/README.md",
     "docs-released",
     "docs-internal/README.md",
@@ -174,9 +176,7 @@
     "Docs Released/testing excel.md",
     "Docs Released",
     "testing.md",
-    "test01.md",
     "README.md",
-    "testing excel.md",
     "Testing.md",
     "Docs Released/SUMMARY.md",
     "Docs Released/README.md",
