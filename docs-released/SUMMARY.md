@@ -10,4 +10,6 @@
   * [ThermoFlex Duo](products/thermoflex-duo/README.md)
     * [Applications](products/thermoflex-duo/applications.md)
     * [Datasheets and Tech Docs](products/thermoflex-duo/datasheets-and-tech-docs.md)
-  * [Page 1](products/page-1.md)
+  * [Copy of ThermoFlex Node](products/copy-of-thermoflex-node/README.md)
+    * [Applications](products/copy-of-thermoflex-node/applications.md)
+    * [Datasheets and Tech Docs](products/copy-of-thermoflex-node/datasheets-and-tech-docs.md)
