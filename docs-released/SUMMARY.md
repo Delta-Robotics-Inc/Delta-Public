@@ -13,4 +13,4 @@
   * [ThermoFlex Node](products/thermoflex-node/README.md)
     * [Applications](products/thermoflex-node/applications.md)
     * [Datasheets and Tech Docs](products/thermoflex-node/datasheets-and-tech-docs.md)
-* [Page 1](page-1.md)
+* [Getting Started](getting-started.md)
