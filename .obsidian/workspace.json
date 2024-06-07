@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-released/README.md",
+                "file": "docs-internal/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-released/README.md",
+                "file": "docs-internal/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-released/README.md",
+                "file": "docs-internal/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-released/README.md"
+                "file": "docs-internal/README.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12f783f64b97de66",
+  "active": "7c0f1628b9cc8858",
   "lastOpenFiles": [
+    "docs-released/README.md",
+    "docs-internal/README.md",
     "docs-released/SUMMARY.md",
     "docs-internal/testing excel.md",
     "docs-released/testing-obsidian-to-gitbook.md",
@@ -156,7 +158,6 @@
     "test01.md",
     "testing excel.md",
     "docs-internal",
-    "docs-released/README.md",
     "docs-released",
     "docs-internal/README.md",
     "SUMMARY.md",
@@ -180,7 +181,6 @@
     "README.md",
     "Testing.md",
     "Docs Released/SUMMARY.md",
-    "Docs Released/README.md",
     "~$ec Sheet Needs.docx",
     "~WRL0001.tmp",
     "~WRD0000.tmp"
