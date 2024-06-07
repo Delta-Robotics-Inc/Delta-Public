@@ -1,3 +1,3 @@
 # Table of contents
 
-* [docs released](README.md)
+* [Public Documents Release](README.md)
