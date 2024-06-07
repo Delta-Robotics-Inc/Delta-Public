@@ -1,6 +1,8 @@
 ---
-description: This is the repository for Delta Robotics' publicly released documents
+description: >-
+  Where are you? Your in the repository for Delta Robotics' publicly released
+  documents!
 ---
 
-# Public Documents Release
+# Your in Public Documents Release!
 
