@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-internal/README.md",
+                "file": "docs-released/getting-started/ThermoFlex Duo (Actuator).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-internal/README.md",
+                "file": "docs-released/getting-started/ThermoFlex Duo (Actuator).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-internal/README.md",
+                "file": "docs-released/getting-started/ThermoFlex Duo (Actuator).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-internal/README.md"
+                "file": "docs-released/getting-started/ThermoFlex Duo (Actuator).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,11 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c0f1628b9cc8858",
+  "active": "12f783f64b97de66",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "docs-released/getting-started/ThermoFlex Duo (Actuator).md",
+    "docs-released/getting-started/README.md",
+    "docs-released/getting-started/ThermoFlex Node (Controller).md",
+    "docs-released/products/thermoflex-duo/README.md",
+    "docs-released/products/thermoflex-duo/applications.md",
+    "docs-released/products/thermoflex-duo/datasheets-and-tech-docs.md",
+    "docs-released/getting-started/Delta Client Control Software.md",
+    "docs-released/getting-started.md",
     "docs-released/README.md",
-    "docs-internal/README.md",
+    "docs-released/getting-started",
+    "getting-started",
     "docs-released/SUMMARY.md",
+    "docs-internal/README.md",
     "docs-internal/testing excel.md",
     "docs-released/testing-obsidian-to-gitbook.md",
     "docs-released/testing-infront-of-kevin.md",
@@ -159,7 +171,6 @@
     "testing excel.md",
     "docs-internal",
     "docs-released",
-    "docs-internal/README.md",
     "SUMMARY.md",
     "docs internal/testing excel.md",
     "docs internal",
@@ -172,17 +183,7 @@
     "docs released",
     "Docs Internal/testing excel.md",
     "Docs Internal",
-    "Docs Released/Tyler Prosthetic Proposal.md",
-    "Docs Released/testing-obsidian-to-gitbook.md",
-    "Docs Released/testing-infront-of-kevin.md",
-    "Docs Released/testing excel.md",
     "Docs Released",
-    "testing.md",
-    "README.md",
-    "Testing.md",
-    "Docs Released/SUMMARY.md",
-    "~$ec Sheet Needs.docx",
-    "~WRL0001.tmp",
-    "~WRD0000.tmp"
+    "~$ec Sheet Needs.docx"
   ]
 }
