@@ -27,7 +27,7 @@
               "state": {
                 "file": "docs-released/SUMMARY.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
