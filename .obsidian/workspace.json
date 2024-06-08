@@ -1,50 +1,39 @@
 {
   "main": {
-    "id": "773b5366103cca3b",
+    "id": "8f44d4794d5e8843",
     "type": "split",
     "children": [
       {
-        "id": "070f935ac161f415",
+        "id": "7ac94ec32e5b7a06",
         "type": "tabs",
         "children": [
           {
-            "id": "12f783f64b97de66",
+            "id": "ebdf4f922dcc8319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-released/getting-started/ThermoFlex Duo (Actuator).md",
+                "file": "docs-released/SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a1ab5626245d3930",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "61db79079c071d93",
+    "id": "3ffc57af5399193f",
     "type": "split",
     "children": [
       {
-        "id": "83f92b41f112561a",
+        "id": "1fd9d79ce5a2276e",
         "type": "tabs",
         "children": [
           {
-            "id": "7c0f1628b9cc8858",
+            "id": "dde892e7173b9391",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,7 +43,7 @@
             }
           },
           {
-            "id": "e52d9a2a40c801ec",
+            "id": "dd06b735e664ef5d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +58,7 @@
             }
           },
           {
-            "id": "ba10d56daceccd72",
+            "id": "76d9329ce3f95528",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ec446261502f712f",
+    "id": "6a77d7c568c5410c",
     "type": "split",
     "children": [
       {
-        "id": "9e4a52600ccceadb",
+        "id": "0cef49662173663b",
         "type": "tabs",
         "children": [
           {
-            "id": "eec3274e6f5bcb0d",
+            "id": "10a7b161ebe4ede4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-released/getting-started/ThermoFlex Duo (Actuator).md",
+                "file": "docs-released/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,19 +97,19 @@
             }
           },
           {
-            "id": "d72f307be70ec516",
+            "id": "e8936354246f63c6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-released/getting-started/ThermoFlex Duo (Actuator).md",
+                "file": "docs-released/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9399be289a43adff",
+            "id": "324ad04f69a44df7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +120,16 @@
             }
           },
           {
-            "id": "8e72797e9c57be56",
+            "id": "e50ac6d1b978fcca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-released/getting-started/ThermoFlex Duo (Actuator).md"
+                "file": "docs-released/SUMMARY.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,65 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "12f783f64b97de66",
+  "active": "ebdf4f922dcc8319",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "docs-released/getting-started/ThermoFlex Duo (Actuator).md",
-    "docs-released/getting-started/README.md",
-    "docs-released/getting-started/ThermoFlex Node (Controller).md",
-    "docs-released/products/thermoflex-duo/README.md",
-    "docs-released/products/thermoflex-duo/applications.md",
-    "docs-released/products/thermoflex-duo/datasheets-and-tech-docs.md",
-    "docs-released/getting-started/Delta Client Control Software.md",
-    "docs-released/getting-started.md",
-=======
-  "active": "a1ab5626245d3930",
-  "lastOpenFiles": [
-    "docs-released/welcome-the-delta-docs-home/updates-and-newsletter.md",
-    "docs-released/welcome-the-delta-docs-home/README.md",
-    "docs-released/welcome-the-delta-docs-home/quick-links.md",
-    "docs-released/welcome-the-delta-docs-home/navigation.md",
-    "docs-released/welcome-the-delta-docs-home/all-about-delta.md",
-    "docs-released/welcome-the-delta-docs-home",
-    "docs-released/products/thermoflex-node/README.md",
-    "docs-released/products/thermoflex-node/datasheets-and-tech-docs.md",
-    "docs-released/products/thermoflex-node/applications.md",
-    "docs-released/products/thermoflex-duo/README.md",
-    "docs-released/products/thermoflex-duo/datasheets-and-tech-docs.md",
-    "docs-released/products/thermoflex-duo/applications.md",
-    "docs-released/products/thermoflex-node",
-    "docs-released/products/thermoflex-duo",
-    "docs-released/products/README.md",
-    "docs-released/products",
-    "docs-internal/SUMMARY.md",
->>>>>>> 12b05b59de8cd623fe53424119bcb4caacde3c59
-    "docs-released/README.md",
-    "docs-released/getting-started",
-    "getting-started",
+    "docs-released/getting started/ThermoFlex Duo.md",
     "docs-released/SUMMARY.md",
-    "docs-internal/README.md",
-    "docs-internal/testing excel.md",
-    "docs-released/testing-obsidian-to-gitbook.md",
-    "docs-released/testing-infront-of-kevin.md",
-    "docs-released/testing-excel.md",
-    "test01.md",
-    "testing excel.md",
-    "docs-internal",
-    "docs-released",
+    "docs-released/getting started/README.md",
     "SUMMARY.md",
-    "docs internal/testing excel.md",
-    "docs internal",
-    "docs released (2)/testing excel.md",
-    "docs released (2)",
-    "docs released",
-<<<<<<< HEAD
-    "Docs Internal/testing excel.md",
-    "Docs Internal",
-    "Docs Released",
-    "~$ec Sheet Needs.docx"
-=======
-    "Docs Internal"
->>>>>>> 12b05b59de8cd623fe53424119bcb4caacde3c59
+    "docs-released/getting started/Software.md",
+    "docs-released/getting started/ThermoFlex Node.md",
+    "docs-released/README.md",
+    "docs-released/products/thermoflex-duo/applications.md",
+    "docs-released/getting started/ThermoFlex.md",
+    "getting started/Delta.md",
+    "getting started",
+    "getting-started/Delta.md",
+    "getting-started"
   ]
 }

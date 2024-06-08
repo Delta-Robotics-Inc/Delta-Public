@@ -13,7 +13,8 @@
   * [ThermoFlex Node](products/thermoflex-node/README.md)
     * [Applications](products/thermoflex-node/applications.md)
     * [Datasheets and Tech Docs](products/thermoflex-node/datasheets-and-tech-docs.md)
-* [Getting Started](getting-started/README.md)
-	* [ThermoFlex Duo (Actuator)](getting-started/ThermoFlex Duo (Actuator).md)
-	* [ThermoFlex Node (Controller)](getting-started/ThermoFlex Node (Controller).md)
-	* [Delta Client Control Software](getting-started/Delta Client Control Software.md)
+* [Getting Started](docs-released/getting%20started/README.md)
+	* [[ThermoFlex Duo]]
+	* [[ThermoFlex Node]]
+	* [[Software]]
+	
