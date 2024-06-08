@@ -15,11 +15,24 @@
               "state": {
                 "file": "docs-released/SUMMARY.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "45b019d42bf6e053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs-released/SUMMARY.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebdf4f922dcc8319",
+  "active": "45b019d42bf6e053",
   "lastOpenFiles": [
-    "docs-released/getting started/ThermoFlex Duo.md",
+    "docs-released/getting-started/thermoflex-duo.md",
     "docs-released/SUMMARY.md",
-    "docs-released/getting started/README.md",
+    "docs-released/getting-started/thermoflex-node.md",
+    "docs-released/getting-started/Software.md",
+    "docs-released/getting-started/README.md",
     "SUMMARY.md",
-    "docs-released/getting started/Software.md",
-    "docs-released/getting started/ThermoFlex Node.md",
     "docs-released/README.md",
     "docs-released/products/thermoflex-duo/applications.md",
     "docs-released/getting started/ThermoFlex.md",
