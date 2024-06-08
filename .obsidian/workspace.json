@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1ab5626245d3930",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,6 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "12f783f64b97de66",
   "lastOpenFiles": [
     "Untitled.canvas",
@@ -158,6 +170,27 @@
     "docs-released/products/thermoflex-duo/datasheets-and-tech-docs.md",
     "docs-released/getting-started/Delta Client Control Software.md",
     "docs-released/getting-started.md",
+=======
+  "active": "a1ab5626245d3930",
+  "lastOpenFiles": [
+    "docs-released/welcome-the-delta-docs-home/updates-and-newsletter.md",
+    "docs-released/welcome-the-delta-docs-home/README.md",
+    "docs-released/welcome-the-delta-docs-home/quick-links.md",
+    "docs-released/welcome-the-delta-docs-home/navigation.md",
+    "docs-released/welcome-the-delta-docs-home/all-about-delta.md",
+    "docs-released/welcome-the-delta-docs-home",
+    "docs-released/products/thermoflex-node/README.md",
+    "docs-released/products/thermoflex-node/datasheets-and-tech-docs.md",
+    "docs-released/products/thermoflex-node/applications.md",
+    "docs-released/products/thermoflex-duo/README.md",
+    "docs-released/products/thermoflex-duo/datasheets-and-tech-docs.md",
+    "docs-released/products/thermoflex-duo/applications.md",
+    "docs-released/products/thermoflex-node",
+    "docs-released/products/thermoflex-duo",
+    "docs-released/products/README.md",
+    "docs-released/products",
+    "docs-internal/SUMMARY.md",
+>>>>>>> 12b05b59de8cd623fe53424119bcb4caacde3c59
     "docs-released/README.md",
     "docs-released/getting-started",
     "getting-started",
@@ -176,14 +209,14 @@
     "docs internal",
     "docs released (2)/testing excel.md",
     "docs released (2)",
-    "docs released/testing excel.md",
-    "docs released/Tyler Prosthetic Proposal.md",
-    "docs released/testing-obsidian-to-gitbook.md",
-    "docs released/testing-infront-of-kevin.md",
     "docs released",
+<<<<<<< HEAD
     "Docs Internal/testing excel.md",
     "Docs Internal",
     "Docs Released",
     "~$ec Sheet Needs.docx"
+=======
+    "Docs Internal"
+>>>>>>> 12b05b59de8cd623fe53424119bcb4caacde3c59
   ]
 }
