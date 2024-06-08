@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1ab5626245d3930",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +157,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c0f1628b9cc8858",
+  "active": "a1ab5626245d3930",
   "lastOpenFiles": [
+    "docs-released/welcome-the-delta-docs-home/updates-and-newsletter.md",
+    "docs-released/welcome-the-delta-docs-home/README.md",
+    "docs-released/welcome-the-delta-docs-home/quick-links.md",
+    "docs-released/welcome-the-delta-docs-home/navigation.md",
+    "docs-released/welcome-the-delta-docs-home/all-about-delta.md",
+    "docs-released/welcome-the-delta-docs-home",
+    "docs-released/products/thermoflex-node/README.md",
+    "docs-released/products/thermoflex-node/datasheets-and-tech-docs.md",
+    "docs-released/products/thermoflex-node/applications.md",
+    "docs-released/products/thermoflex-duo/README.md",
+    "docs-released/products/thermoflex-duo/datasheets-and-tech-docs.md",
+    "docs-released/products/thermoflex-duo/applications.md",
+    "docs-released/products/thermoflex-node",
+    "docs-released/products/thermoflex-duo",
+    "docs-released/products/README.md",
+    "docs-released/products",
+    "docs-internal/SUMMARY.md",
     "docs-released/README.md",
     "docs-internal/README.md",
     "docs-released/SUMMARY.md",
@@ -165,24 +193,7 @@
     "docs internal",
     "docs released (2)/testing excel.md",
     "docs released (2)",
-    "docs released/testing excel.md",
-    "docs released/Tyler Prosthetic Proposal.md",
-    "docs released/testing-obsidian-to-gitbook.md",
-    "docs released/testing-infront-of-kevin.md",
     "docs released",
-    "Docs Internal/testing excel.md",
-    "Docs Internal",
-    "Docs Released/Tyler Prosthetic Proposal.md",
-    "Docs Released/testing-obsidian-to-gitbook.md",
-    "Docs Released/testing-infront-of-kevin.md",
-    "Docs Released/testing excel.md",
-    "Docs Released",
-    "testing.md",
-    "README.md",
-    "Testing.md",
-    "Docs Released/SUMMARY.md",
-    "~$ec Sheet Needs.docx",
-    "~WRL0001.tmp",
-    "~WRD0000.tmp"
+    "Docs Internal"
   ]
 }
