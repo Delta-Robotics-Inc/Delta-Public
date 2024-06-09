@@ -1,8 +1,8 @@
 ---
 description: >-
-  Where are you? Your in the repository for Delta Robotics' publicly released
-  documents!
+  Where are you? You're in the repository for Delta Robotics' public, community
+  contributed documentation.
 ---
 
-# Your in Public Documents Release!
+# You're in Public Documents Release!
 
