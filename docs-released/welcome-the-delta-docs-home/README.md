@@ -4,7 +4,7 @@ description: >-
   kind of important
 ---
 
-# Welcome the Delta Docs Home!
+# Welcome to Delta Docs!
 
 * Welcome Message
 * Mission Statement
@@ -14,7 +14,7 @@ description: >-
 
 ## About
 
-Delta Robotics is pioneering the development of advanced Nitinol artificial muscle technology to revolutionize the robotic and prosthetic spaces. We make this technology accessible and affordable, reducing barriers for inventors to create their own bionic devices with ThermoFlex at the core. Our dual approach combines proprietary ThermoFlex actuators with open-source control systems and training methods, empowering a vibrant community to drive biomechatronic advancement.
+Delta Robotics is pioneering the development of advanced Nitinol artificial muscle technology to revolutionize the robotic and prosthetic spaces. We make this technology accessible and affordable, reducing barriers for inventors to create their own bionic devices with ThermoFlex™ at the core. Our dual approach combines proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community to drive biomechatronic advancement.
 
 [Click here for a more in-depth description of our company and business model.](about-us.md)
 
