@@ -1,7 +1,7 @@
 # Table of contents
 
 * [You're in Public Documents Release!](README.md)
-* [Welcome the Delta Docs Home!](welcome-the-delta-docs-home/README.md)
+* [Welcome to Delta Docs!](welcome-the-delta-docs-home/README.md)
   * [About Us](welcome-the-delta-docs-home/about-us.md)
   * [Updates and Newsletter](welcome-the-delta-docs-home/updates-and-newsletter.md)
 * [Products](products/README.md)
