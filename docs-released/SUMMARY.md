@@ -15,7 +15,3 @@
   * [ThermoFlex™ Duo (Actuator)](getting-started/thermoflex-duo.md)
   * [ThermoFlex™ Node (Controller)](getting-started/thermoflex-node.md)
   * [Delta Client Control Software](getting-started/delta-client-control-software.md)
-* [I am contact stuff](i-am-contact-stuff/README.md)
-  * [Contact Mark](i-am-contact-stuff/contact-mark.md)
-  * [Contact Kevin](i-am-contact-stuff/contact-kevin.md)
-  * [Contact Chris](i-am-contact-stuff/contact-chris.md)
