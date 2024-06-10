@@ -1,6 +1,6 @@
 # Table of contents
 
-* [You're in Public Documents Release!](README.md)
+* [You're in Delta Docs!](README.md)
 * [Welcome to Delta Docs!](welcome-the-delta-docs-home/README.md)
   * [About Us](welcome-the-delta-docs-home/about-us.md)
   * [Updates and Newsletter](welcome-the-delta-docs-home/updates-and-newsletter.md)
@@ -15,3 +15,7 @@
   * [ThermoFlex™ Duo (Actuator)](getting-started/thermoflex-duo.md)
   * [ThermoFlex™ Node (Controller)](getting-started/thermoflex-node.md)
   * [Delta Client Control Software](getting-started/delta-client-control-software.md)
+* [I am contact stuff](i-am-contact-stuff/README.md)
+  * [Contact Mark](i-am-contact-stuff/contact-mark.md)
+  * [Contact Kevin](i-am-contact-stuff/contact-kevin.md)
+  * [Contact Chris](i-am-contact-stuff/contact-chris.md)

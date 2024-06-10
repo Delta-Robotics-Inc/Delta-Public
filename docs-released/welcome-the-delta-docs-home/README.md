@@ -1,7 +1,7 @@
 ---
 description: >-
   Any general info you need is here. You should DEFINITELY read my contents. I'm
-  kind of important
+  kind of important.
 ---
 
 # Welcome to Delta Docs!
