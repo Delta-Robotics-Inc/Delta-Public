@@ -1,5 +1,21 @@
 # About Us
 
+**What does open source look like to Delta?**
+
+At the heart of our innovation and company model is a mission to maintain an open source repository for our consumers and developers whilst maintaining the financial viability for our company to stay alive and keep the light on! What this looks like for you is you will have access to an open source repository, what your in right now, that will give you the knowledge, guides, and community driven projects/content to create your own devices. However, we understand that not everyone has the time, money, and expertise to create their own devices and so that's were we fit in monetarily, we sell consumers a product if they don't want to or can't create their own devices.&#x20;
+
+**Can't I just do the same?**
+
+While we believe in having a robust and open source community, we can't survive without some sort of monetary stream. The way we feel we can best balance this is by allowing users to use open source content to create their own devices but, through the use of patents, restrict a users ability to sell or commercially produce our technology.
+
+<mark style="color:orange;">**TLDR: Our repository is for personal use not commercial**</mark>
+
+
+
+
+
+
+
 Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.
 
 <mark style="color:red;">#TODO Add photo of team with mucle</mark>
