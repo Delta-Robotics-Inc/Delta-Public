@@ -20,7 +20,9 @@ Where are you? You're in the repository for Delta Robotics' public, community co
 
 Who is Delta? What is Delta? Where is Delta?&#x20;
 
-Delta Robotics is a Texas-based hardtech startup looking to revolutionize the robotics industry with cutting edge artificial muscle technologies. We are a small team dedicated to taking our technology and putting it in the hands of consumers through a robust open-source community and creating professional robotics systems like powered prosthetics, assisted mobility devices, and general humanoid robotics. We want to see a world where our technology powers innovation, improves lives, and enables tech companies and enthusiasts to create devices never before possible.&#x20;
+Delta Robotics is a Texas-based hardtech startup looking to revolutionize the robotics industry with cutting edge artificial muscle technologies. We are a small team dedicated to taking our technology and putting it in the hands of consumers through a robust open-source community and creating professional robotics systems like powered prosthetics, assisted mobility devices, and general humanoid robotics. We want to see a world where our technology powers innovation, improves lives, and enables tech companies and enthusiasts to create devices never before possible.
+
+<figure><img src=".gitbook/assets/IMG_8221.JPEG" alt=""><figcaption></figcaption></figure>
 
 ## About Us (Summary)
 
