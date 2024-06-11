@@ -1,5 +1,7 @@
 # Products
 
+<figure><img src="../.gitbook/assets/ThermoFlex Duo Mk.1 Kit Contents-Layout1.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Page Overview
 
 * Overview of Products&#x20;
