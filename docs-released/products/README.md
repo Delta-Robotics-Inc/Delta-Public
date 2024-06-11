@@ -1,8 +1,6 @@
----
-description: Wanna buy stuff? Cool, check me out!
----
-
 # Products
+
+## Page Overview
 
 * Overview of Products&#x20;
 * Introduction to ThermoFlex Duo and ThermoFlex Node&#x20;

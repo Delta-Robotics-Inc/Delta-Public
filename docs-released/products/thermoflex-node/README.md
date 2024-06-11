@@ -1,8 +1,10 @@
 ---
-description: Wanna know about the Node? Read me fool!
+description: Documentation, Applications, and Specifications
 ---
 
-# Copy of ThermoFlex Node
+# ThermoFlex™ Node
+
+
 
 * Overview&#x20;
   * Product Description

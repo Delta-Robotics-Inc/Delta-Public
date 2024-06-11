@@ -1,9 +1,9 @@
 # Table of contents
 
-* [You're in Delta Docs!](README.md)
-* [🌟 You're in Delta Docs!](welcome-the-delta-docs-home/README.md)
+* [🌟 Welcome to Delta Docs](README.md)
   * [About Us](welcome-the-delta-docs-home/about-us.md)
   * [Updates and Newsletter](welcome-the-delta-docs-home/updates-and-newsletter.md)
+  * [Contact Us](welcome-the-delta-docs-home/contact-us.md)
 * [Products](products/README.md)
   * [ThermoFlex™ Duo](products/thermoflex-duo/README.md)
     * [Applications](products/thermoflex-duo/applications.md)

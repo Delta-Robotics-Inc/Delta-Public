@@ -1,8 +1,10 @@
 ---
-description: Wanna know about the Duo? Read me fool!
+description: Documentation, Applications, and Specifications
 ---
 
-# ThermoFlex Duo
+# ThermoFlex™ Duo
+
+
 
 * Overview&#x20;
   * Product Description
