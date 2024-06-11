@@ -14,19 +14,19 @@ Recognizing Nitinol's difficulty to work with outside research settings, we aim 
 
 At Delta Robotics, we aim to tackle both proprietary, patented development of bionic devices while also fostering an open-source control system for our growing community. Doing so is a difficult task that requires rigorous transparency with both investors and open-source developers on what technology is protected and which is open for contribution.
 
-**What does Open-Source look like to Delta?**
+### What does Open-Source look like to Delta?
 
 At the heart of our innovation and company model is a mission to maintain an open-source repository for our consumers and developers whilst maintaining the financial viability for our company to stay alive and keep the lights on! What this looks like for you is access to an open-source repository that will give you the knowledge, guides, and community driven projects/content to create your own devices. We understand that not everyone has the time, money, and expertise to create their own devices.  To sustain our operations, we sell consumers a product if they don't want to or can't create their own devices.
 
-**Commercial Use**
+### Commercial Use
 
-While we believe in having a robust and open-source community, we can't survive without a monetary stream.  All designs contributed on by the community retain full open-source benefits, including commercial use.  Key products, like the ThermoFlex Mk.1, are patent-protected devices that will be protected commercially by Delta Robotics.  See the "Open Source" and "Protected Intellectual Property" sections below to see which projects are community-driven and which are commercially protected.
+While we believe in having a robust and open-source community, we can't survive without a monetary stream.  All designs contributed on by the community retain full open-source benefits, including commercial use.  Key products, like the ThermoFlex Mk.1, are patent-protected devices that will be protected commercially by Delta Robotics.  See the "Open Source Initiatives" and "Protected Intellectual Property" sections below to see which projects are community-driven and which are commercially protected.
 
 <mark style="color:orange;">**TLDR: Our mission is to protect the global right to access this technology and our commercial right to monetize the technology.**</mark>
 
 
 
-### Open Source
+### Open Source Initiatives
 
 For our open-source effort, the Nitinol control system and shape-set training process are community projects.  The design of Delta Robotics muscle controllers and the firmware that run them will be forever community driven. &#x20;
 
