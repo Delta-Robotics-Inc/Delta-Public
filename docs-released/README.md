@@ -18,11 +18,11 @@ Where are you? You're in the repository for Delta Robotics' public, community co
 
 ## Our Mission at Delta:
 
-You might be asking yourself; Who is Delta? What is Delta? Where is Delta?&#x20;
+Who is Delta? What is Delta? Where is Delta?&#x20;
 
-Delta Robotics is a Texas based tech startup looking to revolutionize the robotics industry with cutting edge artificial muscle technologies. We are a small team dedicated to taking our technology and putting it in the hands of consumers through a robust open source community and creating professional robotics systems like powered prosthetics, assisted mobility devices, and general humanoid robotics. We want to see a world where our technology powers innovation, improves lives, and enables tech companies and enthusiasts to create devices never before possible.&#x20;
+Delta Robotics is a Texas-based hardtech startup looking to revolutionize the robotics industry with cutting edge artificial muscle technologies. We are a small team dedicated to taking our technology and putting it in the hands of consumers through a robust open-source community and creating professional robotics systems like powered prosthetics, assisted mobility devices, and general humanoid robotics. We want to see a world where our technology powers innovation, improves lives, and enables tech companies and enthusiasts to create devices never before possible.&#x20;
 
-## About
+## About Us (Summary)
 
 Delta Robotics is pioneering the development of advanced Nitinol artificial muscle technology to revolutionize the robotic and prosthetic spaces. We make this technology accessible and affordable, reducing barriers for inventors to create their own bionic devices with ThermoFlex™ at the core. Our dual approach combines proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community to drive biomechatronic advancement.
 

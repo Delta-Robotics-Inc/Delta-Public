@@ -1,21 +1,5 @@
 # About Us
 
-**What does open source look like to Delta?**
-
-At the heart of our innovation and company model is a mission to maintain an open source repository for our consumers and developers whilst maintaining the financial viability for our company to stay alive and keep the light on! What this looks like for you is you will have access to an open source repository, what your in right now, that will give you the knowledge, guides, and community driven projects/content to create your own devices. However, we understand that not everyone has the time, money, and expertise to create their own devices and so that's were we fit in monetarily, we sell consumers a product if they don't want to or can't create their own devices.&#x20;
-
-**Can't I just do the same?**
-
-While we believe in having a robust and open source community, we can't survive without some sort of monetary stream. The way we feel we can best balance this is by allowing users to use open source content to create their own devices but, through the use of patents, restrict a users ability to sell or commercially produce our technology.
-
-<mark style="color:orange;">**TLDR: Our repository is for personal use not commercial**</mark>
-
-
-
-
-
-
-
 Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.
 
 <mark style="color:red;">#TODO Add photo of team with mucle</mark>
@@ -28,7 +12,19 @@ Recognizing Nitinol's difficulty to work with outside research settings, we aim 
 
 ## Delta Business Model
 
-At Delta Robotics, we aim to tackle both proprietary, patented development of Nitinol products while also fostering an open-source control system for our growing community. Doing so is a difficult task that requires rigorous transparency with both investors and open-source developers on what technology is protected and which is open for contribution.
+At Delta Robotics, we aim to tackle both proprietary, patented development of bionic devices while also fostering an open-source control system for our growing community. Doing so is a difficult task that requires rigorous transparency with both investors and open-source developers on what technology is protected and which is open for contribution.
+
+**What does Open-Source look like to Delta?**
+
+At the heart of our innovation and company model is a mission to maintain an open-source repository for our consumers and developers whilst maintaining the financial viability for our company to stay alive and keep the lights on! What this looks like for you is access to an open-source repository that will give you the knowledge, guides, and community driven projects/content to create your own devices. We understand that not everyone has the time, money, and expertise to create their own devices.  To sustain our operations, we sell consumers a product if they don't want to or can't create their own devices.
+
+**Commercial Use**
+
+While we believe in having a robust and open-source community, we can't survive without a monetary stream.  All designs contributed on by the community retain full open-source benefits, including commercial use.  Key products, like the ThermoFlex Mk.1, are patent-protected devices that will be protected commercially by Delta Robotics.  See the "Open Source" and "Protected Intellectual Property" sections below to see which projects are community-driven and which are commercially protected.
+
+<mark style="color:orange;">**TLDR: Our mission is to protect the global right to access this technology and our commercial right to monetize the technology.**</mark>
+
+
 
 ### Open Source
 
