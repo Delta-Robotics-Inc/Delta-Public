@@ -28,6 +28,8 @@ Delta Robotics is a Texas-based hardtech startup looking to revolutionize the ro
 
 Delta Robotics is pioneering the development of advanced Nitinol artificial muscle technology to revolutionize the robotic and prosthetic spaces. We make this technology accessible and affordable, reducing barriers for inventors to create their own bionic devices with ThermoFlex™ at the core. Our dual approach combines proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community to drive biomechatronic advancement.
 
+<figure><img src=".gitbook/assets/IMG_1294.JPEG" alt=""><figcaption></figcaption></figure>
+
 [Click here for a more in-depth description of our company and business model.](welcome-the-delta-docs-home/about-us.md)
 
 ## Quick Links
