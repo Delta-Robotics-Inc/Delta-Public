@@ -8,14 +8,6 @@ coverY: 0
 
 Where are you? You're in the repository for Delta Robotics' public, community contributed documentation! Here you'll find tutorials, product specifications, and how to get started with one of our open-source efforts.
 
-## **Page Overview**
-
-* Welcome Message
-* Mission Statement
-* About Delta Robotics (Summary)
-* Latest News and Updates (Newest/Most important)
-* Quick Links to Key Sections (Most Important Links)
-
 ## Our Mission at Delta:
 
 Who is Delta? What is Delta? Where is Delta?&#x20;
