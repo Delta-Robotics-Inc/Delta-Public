@@ -16,6 +16,10 @@ ThermoFlex™
 
 
 
+| What is Delta doing?                                                                                                                                | ![](file:///C:/Users/Chris/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.png) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces. |                                                                                   |
+
 ```markdown
 | First Header  | Second Header |
 | ------------- | ------------- |
