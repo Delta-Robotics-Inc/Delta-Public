@@ -10,7 +10,7 @@ coverY: 0
 
 # Welcome to Delta Docs
 
-***
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## A Quick Disclaimer!
 
@@ -24,7 +24,9 @@ All you need to know for now is this:
 
 On to the fun stuff....
 
-***
+
+
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## Our Mission at Delta:
 
