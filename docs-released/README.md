@@ -24,17 +24,15 @@ All you need to know for now is this:
 
 On to the fun stuff....
 
-
-
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## Our Mission at Delta:
 
 We at Delta envision a robust open-source community helping us build professional robotics systems like powered prosthetics, assisted mobility devices, and general humanoid robotics. We want to see a world where our technology powers innovation, improves lives, and enables tech companies and enthusiasts to create devices never before possible.
 
-
-
 <figure><img src=".gitbook/assets/IMG_8221.JPEG" alt=""><figcaption><p>Prototype Mark 1.0 Muscle with Evil Genius Kevin Fehr </p></figcaption></figure>
+
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## A Short Blurb About Us
 
@@ -44,9 +42,7 @@ Delta Robotics is a Texas-based tech startup looking to revolutionize the roboti
 
 Delta Robotics is pioneering the development of advanced Nitinol artificial muscle technology to revolutionize the robotic and prosthetic spaces. We make this technology accessible and affordable, reducing barriers for inventors to create their own bionic devices with ThermoFlex™ at the core. Our dual approach combines proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community to drive biomechatronic advancement.
 
-<figure><img src=".gitbook/assets/IMG_1294.JPEG" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/IMG_1294.JPEG" alt=""><figcaption><p>Prototype of Mark 1.0 muscle with prototype node control</p></figcaption></figure>
 
 {% hint style="info" %}
 Can't get enough? Want to know more about us?
@@ -54,6 +50,8 @@ Can't get enough? Want to know more about us?
 [Click here for a more in-depth description of our company and business model.](welcome-the-delta-docs-home/about-us.md)
 {% endhint %}
 
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
 ## Quick Links
 
-Need to find a place outside of Delta's website that's important/relevant to us? You'll probably find it here.
+Lost? Need to find a place outside of Delta's website that's important/relevant to us? You'll probably find the path you seek here.
