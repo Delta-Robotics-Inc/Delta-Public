@@ -86,6 +86,8 @@ Recognizing Nitinol's difficulty to work with outside research settings, we aim 
 >
 >
 
+> "blah blah blah part 2"
+
 ## Delta Business Model
 
 At Delta Robotics, we aim to tackle both proprietary, patented development of bionic devices while also fostering an open-source control system for our growing community. Doing so is a difficult task that requires rigorous transparency with both investors and open-source developers on what technology is protected and which is open for contribution.
