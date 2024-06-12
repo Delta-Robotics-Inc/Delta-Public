@@ -20,6 +20,10 @@ ThermoFlex™
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces. |                                                                                   |
 
+{% content-ref url="https://app.gitbook.com/o/DRUX0s7OQJcPuQMr3U0O/snippet/16862" %}
+[image test](https://app.gitbook.com/o/DRUX0s7OQJcPuQMr3U0O/snippet/16862)
+{% endcontent-ref %}
+
 ```markdown
 | First Header  | Second Header |
 | ------------- | ------------- |
