@@ -4,7 +4,17 @@ description: So you want to know more about Delta? Well you've made it to the ri
 
 # About Us
 
+ThermoFlex™
+
+
+
 Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.
+
+The development of medical technology, especially prosthetics, has been largely closed off to the average person, making the creation of at home solutions non-feasible. Many of the problems inhibiting the average person from creating solutions boil down to development being overly complex, a lack of access to tool or information, and the process being prohibitively expensive.&#x20;
+
+&#x20;
+
+
 
 The development of medical technology, especially prosthetics, has been too closed off and prohibitively expensive for the average person. At Delta Robotics, we reduce the barrier to entry for inventors and enthusiasts by making our advanced Nitinol technology accessible and affordable. By placing our technology at the core of their creations, we empower individuals to build innovative, cost-effective bionic devices, democratizing access to life-changing technology.
 
