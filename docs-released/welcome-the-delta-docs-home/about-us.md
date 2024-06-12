@@ -23,6 +23,13 @@ ThermoFlex™
 | Content Cell  | Content Cell  |
 ```
 
+```
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+```
+
 ## What is Delta doing?
 
 Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.
