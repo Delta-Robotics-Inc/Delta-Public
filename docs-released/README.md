@@ -30,31 +30,29 @@ On to the fun stuff....
 
 ## Our Mission at Delta:
 
-Who is Delta? What is Delta? Where is Delta?&#x20;
-
-Delta Robotics is a Texas-based tech startup looking to revolutionize the robotics industry with cutting edge artificial muscle technologies. We are a small team dedicated to taking our technology and putting it in the hands of people like you and making products people need! Whether your a developer, tech enthusiast, or problem solver, we want dedicated users like you to interact and utilize our technology.&#x20;
-
-How do we do seek to accomplish this?
-
 We at Delta envision a robust open-source community helping us build professional robotics systems like powered prosthetics, assisted mobility devices, and general humanoid robotics. We want to see a world where our technology powers innovation, improves lives, and enables tech companies and enthusiasts to create devices never before possible.
+
+
 
 <figure><img src=".gitbook/assets/IMG_8221.JPEG" alt=""><figcaption><p>Prototype Mark 1.0 Muscle with Evil Genius Kevin Fehr </p></figcaption></figure>
 
 ## A Short Blurb About Us
 
+So now you're left asking: Who is Delta? What is Delta? Where is Delta?&#x20;
+
+Delta Robotics is a Texas-based tech startup looking to revolutionize the robotics industry with cutting edge artificial muscle technologies. We are a small team dedicated to taking our technology and putting it in the hands of people like you and making products people need! Whether your a developer, tech enthusiast, or problem solver, we want dedicated users like you to interact and utilize our technology.&#x20;
+
 Delta Robotics is pioneering the development of advanced Nitinol artificial muscle technology to revolutionize the robotic and prosthetic spaces. We make this technology accessible and affordable, reducing barriers for inventors to create their own bionic devices with ThermoFlex™ at the core. Our dual approach combines proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community to drive biomechatronic advancement.
 
 <figure><img src=".gitbook/assets/IMG_1294.JPEG" alt=""><figcaption></figcaption></figure>
 
+
+
+{% hint style="info" %}
+Can't get enough? Want to know more about us?
+
 [Click here for a more in-depth description of our company and business model.](welcome-the-delta-docs-home/about-us.md)
-
-
-
-
-
-## Disclaimer
-
-
+{% endhint %}
 
 ## Quick Links
 
