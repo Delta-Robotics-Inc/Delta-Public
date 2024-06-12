@@ -12,7 +12,7 @@ coverY: 0
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-## A Quick Disclaimer!
+## <mark style="color:orange;">A Quick Disclaimer</mark>
 
 You're going to read a lot here about open-source this, commercial use that, and even the scary; _protected material..._
 
@@ -26,7 +26,7 @@ On to the fun stuff....
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-## Our Mission at Delta:
+## <mark style="color:orange;">Our Mission at Delta</mark>
 
 We at Delta envision a robust open-source community helping us build professional robotics systems like powered prosthetics, assisted mobility devices, and general humanoid robotics. We want to see a world where our technology powers innovation, improves lives, and enables tech companies and enthusiasts to create devices never before possible.
 
@@ -34,7 +34,7 @@ We at Delta envision a robust open-source community helping us build professiona
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-## A Short Blurb About Us
+## <mark style="color:orange;">A Short Blurb About Us</mark>
 
 So now you're left asking: Who is Delta? What is Delta? Where is Delta?&#x20;
 
@@ -52,6 +52,6 @@ Can't get enough? Want to know more about us?
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-## Quick Links
+## <mark style="color:orange;">Quick Links</mark>
 
 Lost? Need to find a place outside of Delta's website that's important/relevant to us? You'll probably find the path you seek here.
