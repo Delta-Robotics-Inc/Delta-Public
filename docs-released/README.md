@@ -8,7 +8,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🌟 Welcome to Delta Docs
+# Welcome to Delta Docs
 
 ***
 
@@ -24,7 +24,7 @@ All you need to know for now is this:
 
 On to the fun stuff....
 
-
+***
 
 ## Our Mission at Delta:
 

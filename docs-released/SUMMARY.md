@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌟 Welcome to Delta Docs](README.md)
+* [Welcome to Delta Docs](README.md)
   * [About Us](welcome-the-delta-docs-home/about-us.md)
   * [Updates and Newsletter](welcome-the-delta-docs-home/updates-and-newsletter.md)
   * [Contact Us](welcome-the-delta-docs-home/contact-us.md)
