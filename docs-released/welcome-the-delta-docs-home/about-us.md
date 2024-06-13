@@ -12,31 +12,11 @@ ThermoFlex™
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2>What is Delta doing?</h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png">corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>What is Delta doing?</td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td></tr><tr><td></td><td></td></tr></tbody></table>
 
 
 
-| What is Delta doing?                                                                                                                                | ![](file:///C:/Users/Chris/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.png) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces. |                                                                                   |
-
-{% content-ref url="https://app.gitbook.com/o/DRUX0s7OQJcPuQMr3U0O/snippet/16862" %}
-[image test](https://app.gitbook.com/o/DRUX0s7OQJcPuQMr3U0O/snippet/16862)
-{% endcontent-ref %}
-
-```markdown
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-```
-
-```
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-```
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../.gitbook/assets/Screenshot 2024-06-12 215934.png">Screenshot 2024-06-12 215934.png</a></td></tr><tr><td><a href="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png">corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png</a></td></tr></tbody></table>
 
 ## What is Delta doing?
 
