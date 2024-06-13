@@ -10,6 +10,18 @@ ThermoFlex™
 
 
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Testing testing</td><td></td><td></td></tr></tbody></table>
+
+<div align="right" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-12 215934.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 
 
 <div align="left" data-full-width="true">
