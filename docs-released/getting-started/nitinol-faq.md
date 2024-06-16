@@ -14,11 +14,11 @@ Shape memory Nitinol has three main phases; Twined Martensite, De-twinned Marten
 * During it's cooling cycle where power is off and the muscle is left to dissipate heat it is in a Austenite to Twinned Martensite phase (right side of graph).
 * During load where the actuator is under stress and be deformed i.e. being stretch out by a water jug and pulled it is going from Twinned to De-twinned Martensite (bottom of image)
 
-<figure><img src="../.gitbook/assets/NiTi_structure_transformation.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/NiTi_structure_transformation.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 As for latice structures for Nitinol, below are images of Nitinols latice in Austinite and Martinsite
 
-<figure><img src="../.gitbook/assets/Nitinol_Austenite_and_martensite.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nitinol_Austenite_and_martensite.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Due to the Nature of Nitinol is has a hysteretic curve  for temperature vs strain/transformation. Below is a image of this curve with Austinite start (As), Austinite finish (Af), Martensite start (Ms), and Martensite finish (Mf) phases listed. &#x20;
 
@@ -26,4 +26,4 @@ Due to the Nature of Nitinol is has a hysteretic curve  for temperature vs strai
 
 While the Nitinol we currently use at Delta is a 90 Degree Celsius Activation temperature Nitinol alloy we can have Nitinol's activation temperature, otherwise known as Martensite start (Ms),  change based on the Ratio of NIckel to Titanium. The greater percentage that Nickel takes up in the alloy content the lower the activation temperature is. Below is a graph of this relationship.&#x20;
 
-<figure><img src="../.gitbook/assets/Nitinol_Ms_vs_Ni_content.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nitinol_Ms_vs_Ni_content.jpg" alt="" width="563"><figcaption></figcaption></figure>
