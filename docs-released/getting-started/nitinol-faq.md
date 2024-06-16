@@ -10,8 +10,8 @@ Here are the generalized properties of Nitinol alloy:
 
 Shape memory Nitinol has three main phases; Twined Martensite, De-twinned Martensite, and Austenite phases. The Image below shows at what atomic phases the Nitinol is in during heating and cooling cycles. For how this relates to Delta Robotics ThermoFlex actuators:
 
-* During a contraction i.e. shortening of the actuator we are in a De-twinned Martensite phase to Austenite transition (right side of graph)
-* During it's cooling cycle where power is off and the muscle is left to dissipate heat it is in a Austenite to Twinned Martensite phase left side of graph.
+* During a contraction i.e. shortening of the actuator we are in a De-twinned Martensite phase to Austenite transition (left side of graph)
+* During it's cooling cycle where power is off and the muscle is left to dissipate heat it is in a Austenite to Twinned Martensite phase (right side of graph).
 * During load where the actuator is under stress and be deformed i.e. being stretch out by a water jug and pulled it is going from Twinned to De-twinned Martensite (bottom of image)
 
 <figure><img src="../.gitbook/assets/NiTi_structure_transformation.jpg" alt=""><figcaption></figcaption></figure>
