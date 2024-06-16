@@ -16,9 +16,11 @@ Shape memory Nitinol has three main phases; Twined Martensite, De-twinned Marten
 
 <figure><img src="../.gitbook/assets/NiTi_structure_transformation.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-As for latice structures for Nitinol, below are images of Nitinols latice in Austinite and Martinsite
+NiTiNOL (Nickel-Titanium alloy) exhibits different crystal lattice structures depending on its phase:
 
-<figure><img src="../.gitbook/assets/Nitinol_Austenite_and_martensite.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Austenite Phase:</td><td>In the high-temperature phase, NiTiNOL has a B2 cubic structure. This is a body-centered cubic (BCC) lattice where nickel and titanium atoms are positioned at the corners and the center of the unit cell. </td></tr><tr><td>Martensite Phase:</td><td>In the low-temperature phase, NiTiNOL transforms into martensite, which has a more complex structure. The martensite phase can have different forms depending on the specific alloy composition and thermal treatment: Monoclinic B19' Structure: This is the most common form of martensite in NiTiNOL. It has a distorted lattice compared to the austenite phase, allowing for significant deformation and the shape memory effect. Orthorhombic B19 Structure: This form is less common but can also be observed under certain conditions.</td></tr></tbody></table>
+
+<figure><img src="../.gitbook/assets/Nitinol_Austenite_and_martensite.jpg" alt="" width="563"><figcaption><p>Above are images of Nitinols lattice in Austinite and Martensite</p></figcaption></figure>
 
 Due to the Nature of Nitinol is has a hysteretic curve  for temperature vs strain/transformation. Below is a image of this curve with Austinite start (As), Austinite finish (Af), Martensite start (Ms), and Martensite finish (Mf) phases listed. &#x20;
 
