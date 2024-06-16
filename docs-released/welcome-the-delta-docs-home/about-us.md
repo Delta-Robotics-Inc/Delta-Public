@@ -10,7 +10,15 @@ ThermoFlex™
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Testing testing</td><td></td><td></td></tr></tbody></table>
+<div align="right" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-12 215934.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 <div align="right" data-full-width="false">
 
@@ -22,29 +30,9 @@ ThermoFlex™
 
 </div>
 
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>What is Delta doing?</td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr></tbody></table>
 
-
-<div align="left" data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-12 215934.png" alt="" width="272"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="right" data-full-width="true">
-
-<figure><img src="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>What is Delta doing?</td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td></tr><tr><td></td><td></td></tr></tbody></table>
-
-
-
-<table data-card-size="large" data-view="cards"><thead><tr><th data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../.gitbook/assets/Screenshot 2024-06-12 215934.png">Screenshot 2024-06-12 215934.png</a></td></tr><tr><td><a href="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png">corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png</a></td></tr></tbody></table>
-
-{% embed url="https://docs.google.com/document/d/1QdmJzXa-8QYlvosw8PEV4NmoV7nRsNVIEUAgsSmRFpk/edit" %}
-
-{% embed url="https://docs.google.com/document/d/1QdmJzXa-8QYlvosw8PEV4NmoV7nRsNVIEUAgsSmRFpk/edit" %}
+<table data-view="cards"><thead><tr><th data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png">corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png</a></td></tr></tbody></table>
 
 ## What is Delta doing?
 

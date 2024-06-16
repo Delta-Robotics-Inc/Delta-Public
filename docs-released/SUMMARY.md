@@ -15,3 +15,4 @@
   * [ThermoFlex™ Duo (Actuator)](getting-started/thermoflex-duo.md)
   * [ThermoFlex™ Node (Controller)](getting-started/thermoflex-node.md)
   * [Delta Client Control Software](getting-started/delta-client-control-software.md)
+  * [Nitinol FAQ](getting-started/nitinol-faq.md)
