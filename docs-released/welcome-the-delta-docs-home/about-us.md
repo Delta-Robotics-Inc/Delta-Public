@@ -8,11 +8,9 @@ coverY: 0
 
 ThermoFlex™
 
-
-
 <div align="right" data-full-width="false">
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-12 215934.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-16 022918.png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -20,19 +18,39 @@ ThermoFlex™
 
 </div>
 
-<div align="right" data-full-width="false">
+<div data-full-width="false">
 
 <figure><img src="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-12 215934.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-16 022945.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>What is Delta doing?</td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr></tbody></table>
+<div data-full-width="false">
 
-<table data-view="cards"><thead><tr><th data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png">corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png</a></td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-16 023007.png" alt="" width="505"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2>What is Delta doing?</h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td><h2>What problem are we solving?</h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td><h2>How are we solving this?</h2></td><td>At Delta Robotics, we address these issues by making our Nitinol technology accessible and affordable with a open-source repository accompanying it. By placing our technology at the core of their creations, we empower individuals to build innovative and cost-effective bionic devices, thus democratizing access to life-changing technology.</td><td></td></tr></tbody></table>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td><h2>What is the technology behind the solution?</h2></td></tr><tr><td>Recognizing Nitinol's difficulty to work with outside research settings, we aim to make it more accessible for bionic development. Our dual approach involves creating patented ThermoFlex™ Nitinol actuators, which serve as the core technology for cutting-edge prosthetics and mobility devices, while fostering a vibrant open-source community. We are committed to keeping our control systems and Nitinol training methods open-source, bringing this knowledge out of research labs and into the hands of hobbyists and innovators. </td></tr><tr><td>Our community is empowered to collaborate on open bionic designs using the ThermoFlex™ control software, our Nitinol shape-setting methods, and accessible hardware schematics. By maintaining commercial control over our own actuator designs, Delta Robotics ensures a sustainable revenue stream, positioning us as the primary supplier of this critical technology. Simultaneously, our open-source initiatives promote widespread collaboration, driving advancements in robotic and prosthetic solutions and accelerating the development of transformative, life-enhancing technologies.</td></tr></tbody></table>
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 ## What is Delta doing?
 
@@ -50,23 +68,15 @@ At Delta Robotics, we address these issues by making our Nitinol technology acce
 
 We recognized Nitinol's difficulty to work with outside&#x20;
 
-Recognizing Nitinol's difficulty to work with outside research settings, we aim to make it more accessible for bionic development. Our dual approach involves creating patented ThermoFlex™ Nitinol actuators, which serve as the core technology for cutting-edge prosthetics and mobility devices, while fostering a vibrant open-source community. We are committed to keeping our control systems and Nitinol training methods open-source, bringing this knowledge out of research labs and into the hands of hobbyists and innovators. Our community is empowered to collaborate on open bionic designs using the ThermoFlex™ control software, our Nitinol shape-setting methods, and accessible hardware schematics. By maintaining commercial control over our own actuator designs, Delta Robotics ensures a sustainable revenue stream, positioning us as the primary supplier of this critical technology. Simultaneously, our open-source initiatives promote widespread collaboration, driving advancements in robotic and prosthetic solutions and accelerating the development of transformative, life-enhancing technologies.
+Recognizing Nitinol's difficulty to work with outside research settings, we aim to make it more accessible for bionic development. Our dual approach involves creating patented ThermoFlex™ Nitinol actuators, which serve as the core technology for cutting-edge prosthetics and mobility devices, while fostering a vibrant open-source community. We are committed to keeping our control systems and Nitinol training methods open-source, bringing this knowledge out of research labs and into the hands of hobbyists and innovators.&#x20;
+
+Our community is empowered to collaborate on open bionic designs using the ThermoFlex™ control software, our Nitinol shape-setting methods, and accessible hardware schematics. By maintaining commercial control over our own actuator designs, Delta Robotics ensures a sustainable revenue stream, positioning us as the primary supplier of this critical technology. Simultaneously, our open-source initiatives promote widespread collaboration, driving advancements in robotic and prosthetic solutions and accelerating the development of transformative, life-enhancing technologies.
 
 <mark style="color:red;">#TODO Add photo of team with muscle</mark>
 
 
 
 
-
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
 
 
 
