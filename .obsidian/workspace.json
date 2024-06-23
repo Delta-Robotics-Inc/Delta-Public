@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-released/getting-started/thermoflex-duo.md",
+                "file": "docs-released/SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6a77d7c568c5410c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-released/getting-started/thermoflex-duo.md",
+                "file": "docs-released/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-released/getting-started/thermoflex-duo.md",
+                "file": "docs-released/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-released/getting-started/thermoflex-duo.md"
+                "file": "docs-released/SUMMARY.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,13 +156,14 @@
   },
   "active": "2a4c789c880fbbef",
   "lastOpenFiles": [
-    "docs-released/welcome-the-delta-docs-home/about-us.md",
-    "docs-released/getting-started/delta-client-control-software.md",
-    "docs-released/SUMMARY.md",
-    "docs-released/getting-started/thermoflex-duo.md",
-    "docs-released/getting-started/thermoflex-node.md",
     "docs-released/getting-started/Software.md",
+    "docs-released/getting-started/delta-client-control-software.md",
+    "docs-released/getting-started/thermoflex-duo.md",
     "docs-released/getting-started/README.md",
+    "docs-released/getting-started/thermoflex-node.md",
+    "docs-released/SUMMARY.md",
+    "docs-released/welcome-the-delta-docs-home/about-us.md",
+    "docs-released/welcome-the-delta-docs-home/README.md",
     "SUMMARY.md",
     "docs-released/README.md",
     "docs-released/products/thermoflex-duo/applications.md",
