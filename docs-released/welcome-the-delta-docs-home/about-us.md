@@ -8,37 +8,7 @@ coverY: 0
 
 ThermoFlex™
 
-<div align="right" data-full-width="false">
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-16 022918.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-16 022945.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-16 023007.png" alt="" width="505"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2>What is Delta doing?</h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png">corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png</a></td></tr><tr><td><h2>What problem are we solving?</h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td><a href="../.gitbook/assets/businessman-hand-holding-blocks.jpeg">businessman-hand-holding-blocks.jpeg</a></td></tr><tr><td><h2>How are we solving this?</h2></td><td>At Delta Robotics, we address these issues by making our Nitinol technology accessible and affordable with a open-source repository accompanying it. By placing our technology at the core of their creations, we empower individuals to build innovative and cost-effective bionic devices, thus democratizing access to life-changing technology.</td><td><a href="../.gitbook/assets/NiTi_structure_transformation.jpg">NiTi_structure_transformation.jpg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2>What is Delta doing?</h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png">corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png</a></td></tr><tr><td><h2>What problem are we solving?</h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/businessman-hand-holding-blocks.jpeg">businessman-hand-holding-blocks.jpeg</a></td></tr><tr><td><h2>How are we solving this?</h2></td><td>At Delta Robotics, we address these issues by making our Nitinol technology accessible and affordable with a open-source repository accompanying it. By placing our technology at the core of their creations, we empower individuals to build innovative and cost-effective bionic devices, thus democratizing access to life-changing technology.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/NiTi_structure_transformation.jpg">NiTi_structure_transformation.jpg</a></td></tr></tbody></table>
 
 ## What is the technology behind the solution?
 
