@@ -48,6 +48,8 @@ We believe that Nitinol actuators will have a strong role in the explosion of ad
 
 Additionally, shape-setting Nitinol wire into a new trained geometry can be accomplished via electrical heating with resistance feedback.  This process is difficult to refine and is currently a trade secret within other Nitinol-producing companies.  Delta Robotics aims to develop extensive documentation, research papers, and electronics in order to democratize the creation of new Nitinol actuators.  You can buy our muscles or learn how to make your own!
 
+<figure><img src="../.gitbook/assets/file.excalidraw.svg" alt=""><figcaption></figcaption></figure>
+
 ### Protected Intellectual Property
 
 As a corporation, Delta Robotics has a responsibility to its shareholders and employees to grow and seek profit from our efforts.  Delta is a major contributor to this Nitinol open-source initiative, with a business interest in its success.  In doing so, we will retain the commercial rights to actuator designs researched and produced by the company.  Currently, this includes our ThermoFlex™ Mk.1 platform and our planned ThermoFlex™ Mk.2.
