@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1225.376726126671 74" width="1225.376726126671" height="74">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nM1VW0/bMFx1MDAxNH7vr6iyVyh2UufC26BIMLbRqUjTNPFgXHUwMDEyN7Hq2lnsXlH/+2w3xFnawttEXHUwMDFl2vjcvnOOv0956fX7ntqUxLvse2SdYkazXG6vvDNjX5JKUsG1y7dnKVx1MDAxNlVqI1x1MDAwYqVKeXlxgctykFP1LMRskIr5Po0wMidcXElcdTAwMWT4W5/7/Vx1MDAxN/vbXHUwMDAyYpRcdTAwMTNcdTAwMWJrrVx1MDAwZSZcdTAwMWV2jd9cdTAwMDW3iNBcdTAwMGajXHUwMDE4+D6Mm1xiKkdcdTAwMWFJkUy7p5hJ4jzG5D2ehzB/2K6zb9tcdTAwMTH9+kMxdC/HXHUwMDBldUpcdTAwMTmbqFxys1xySaHndj6pKjEjP2mmitfhW/ZTWZVY5Fx1MDAwNSfSXGZcdTAwMGVcdTAwMWKrKHFK1cbYXHUwMDAwaKyY57aGs6z1aVxi4kGEomFcdTAwMTL5XHUwMDAxglx1MDAwMUSN1+SHXHUwMDAwXHJgXHUwMDE4XHUwMDA1fuQjXHUwMDEwoTjo9HUtmKhMX5+mIE5cdTAwMDFwnT3jdJbr9njWxKhcbnNZ4kpflItb1Vx1MDAxM0NcdTAwMTg66ILQvFCmO4dH7NZhnFx1MDAwNCiAiXNcdTAwMTiQ8i6zV//kVl3hObkzXHUwMDE5fMFYe188q/f1Slx1MDAxMUdcdTAwMTK/tuzcXHUwMDE0Jv6mRS6HsCgzvGdcdTAwMDKMYOxcdTAwMDNcdTAwMDRcdTAwMTGAUdL4NeFmXXgm0tlcdTAwMTHySIUrdUV5RnneTSE8O+FhWKprMZ9TpdtcdTAwMThcdTAwMGLKVTfC1v1cXFViVVx1MDAxMHywXHUwMDBiXfmkrzTlnJrM4976jkL20Lw/nVx1MDAxZI1uX615zocuo9f+r/d+oF3CXHUwMDE4LeVR+bZZ09VvXHUwMDEyolhfS+jE9J5+o4fRXGJcdTAwMTfrL6C4/3VLxvz2Zvn452PrN4nQXHUwMDFi+kVJ+L/060o36oVcdTAwMDfyRcMkgUniRvg46o3AsPUteF+9e8b2atZ7+rM0Ubpk05pcdTAwMWWNZlx1MDAxM7ol/5TxlpSsrt7eba+ewfCN2Fl3vd1f4o/M6yJ9<!-- payload-end -->
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="1225.376726126671" height="74" fill="transparent"/><g stroke-linecap="round"><g transform="translate(30.366904460638807 39) rotate(0 582.5 -2)"><path d="M-0.37 1.15 C193.89 0.21, 970.86 -4.05, 1165.01 -5.1 M1.64 0.72 C195.79 -0.17, 970.42 -3.29, 1164.07 -4.14" stroke="#f08c00" stroke-width="2" fill="none"/></g></g><mask/><g stroke-linecap="round" transform="translate(597.3669044606388 30) rotate(0 6.5 7)"><path d="M7.61 -0.07 C8.98 0.17, 11.07 1.6, 11.9 2.88 C12.73 4.16, 12.75 6.06, 12.6 7.63 C12.45 9.19, 11.98 11.14, 11 12.27 C10.02 13.4, 8.13 14.21, 6.72 14.38 C5.31 14.56, 3.55 14.21, 2.52 13.31 C1.49 12.4, 0.88 10.52, 0.55 8.96 C0.22 7.4, 0.06 5.26, 0.55 3.93 C1.03 2.6, 2.24 1.56, 3.47 0.97 C4.7 0.37, 7.08 0.39, 7.92 0.36 C8.75 0.32, 8.52 0.72, 8.51 0.76 M4.85 0.47 C6.19 0.12, 8.74 0.32, 9.94 0.84 C11.13 1.36, 11.61 2.26, 12.02 3.59 C12.42 4.91, 12.65 7.2, 12.38 8.78 C12.11 10.37, 11.53 12.21, 10.38 13.07 C9.23 13.93, 6.92 14.07, 5.48 13.96 C4.04 13.84, 2.68 13.51, 1.72 12.39 C0.76 11.27, -0.13 8.87, -0.25 7.21 C-0.38 5.56, 0.15 3.56, 0.98 2.44 C1.81 1.33, 4.13 0.99, 4.75 0.52 C5.37 0.04, 4.7 -0.5, 4.7 -0.41" stroke="#f08c00" stroke-width="2" fill="none"/></g></svg>

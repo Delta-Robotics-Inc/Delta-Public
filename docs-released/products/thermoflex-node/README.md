@@ -1,8 +1,10 @@
 ---
-description: Wanna know about the Node? Read me fool!
+description: Documentation, Applications, and Specifications
 ---
 
-# Copy of ThermoFlex Node
+# ThermoFlex™ Node
+
+<figure><img src="../../.gitbook/assets/3D_RA4M1 Node DEV_2024-06-10 (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * Overview&#x20;
   * Product Description

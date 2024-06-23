@@ -1,8 +1,8 @@
----
-description: Wanna buy stuff? Cool, check me out!
----
-
 # Products
+
+<figure><img src="../.gitbook/assets/ThermoFlex Duo Mk.1 Kit Contents-Layout1.jpg" alt=""><figcaption></figcaption></figure>
+
+## Page Overview
 
 * Overview of Products&#x20;
 * Introduction to ThermoFlex Duo and ThermoFlex Node&#x20;
