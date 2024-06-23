@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-released/getting-started/thermoflex-duo.md",
+                "file": "docs-released/welcome-the-delta-docs-home/about-us.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-released/getting-started/thermoflex-duo.md",
+                "file": "docs-released/welcome-the-delta-docs-home/about-us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-released/getting-started/thermoflex-duo.md",
+                "file": "docs-released/welcome-the-delta-docs-home/about-us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-released/getting-started/thermoflex-duo.md"
+                "file": "docs-released/welcome-the-delta-docs-home/about-us.md"
               }
             }
           },
@@ -156,10 +156,11 @@
   },
   "active": "2a4c789c880fbbef",
   "lastOpenFiles": [
+    "docs-released/getting-started.md",
     "docs-released/welcome-the-delta-docs-home/about-us.md",
+    "docs-released/getting-started/thermoflex-duo.md",
     "docs-released/getting-started/delta-client-control-software.md",
     "docs-released/SUMMARY.md",
-    "docs-released/getting-started/thermoflex-duo.md",
     "docs-released/getting-started/thermoflex-node.md",
     "docs-released/getting-started/Software.md",
     "docs-released/getting-started/README.md",
