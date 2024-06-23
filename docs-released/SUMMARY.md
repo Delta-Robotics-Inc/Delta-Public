@@ -8,6 +8,7 @@
   * [ThermoFlex™ Duo (Actuator)](getting-started/thermoflex-duo.md)
   * [ThermoFlex™ Node (Controller)](getting-started/thermoflex-node.md)
   * [Delta Client Control Software](getting-started/delta-client-control-software.md)
+  * [Nitinol FAQ](getting-started/nitinol-faq.md)
 =======
   * [Contact Us](welcome-the-delta-docs-home/contact-us.md)
 >>>>>>> origin/main
@@ -21,9 +22,4 @@
     * [Datasheets and Tech Docs](products/thermoflex-node/datasheets-and-tech-docs.md)
 =======
     * [Datasheets and Tech Docs](products/thermoflex-node/datasheets-and-tech-docs.md)
-* [Getting Started](getting-started/README.md)
-  * [ThermoFlex™ Duo (Actuator)](getting-started/thermoflex-duo.md)
-  * [ThermoFlex™ Node (Controller)](getting-started/thermoflex-node.md)
-  * [Delta Client Control Software](getting-started/delta-client-control-software.md)
-  * [Nitinol FAQ](getting-started/nitinol-faq.md)
 >>>>>>> origin/main

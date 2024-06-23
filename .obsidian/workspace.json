@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7bf563269ef6ffb2",
+        "id": "4dbd41d59bbaaaf1",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4c789c880fbbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs-released/SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f60c6538f33e7c46",
+            "id": "b64171678289167b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f60c6538f33e7c46",
+  "active": "b64171678289167b",
   "lastOpenFiles": [
-    "docs-released/getting-started/nitinol-faq.md",
     "docs-released/getting-started/delta-client-control-software.md",
+    "docs-released/SUMMARY.md",
+    "docs-released/getting-started/nitinol-faq.md",
+    "conflict-files-obsidian-git.md",
     "docs-released/getting-started/thermoflex-node.md",
     "docs-released/getting-started/thermoflex-duo.md",
-    "docs-released/SUMMARY.md",
-    "conflict-files-obsidian-git.md",
     "docs-released/welcome-the-delta-docs-home/contact-us.md",
     "docs-internal/backing-some-stuff-up.md",
     "SUMMARY.md",
