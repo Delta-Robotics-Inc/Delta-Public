@@ -30,7 +30,7 @@ On to the fun stuff....
 
 We at Delta envision a robust open-source community helping us build professional robotics systems like powered prosthetics, assisted mobility devices, and general humanoid robotics. We want to see a world where our technology powers innovation, improves lives, and enables tech companies and enthusiasts to create devices never before possible.
 
-<figure><img src=".gitbook/assets/IMG_8221.JPEG" alt=""><figcaption><p>Prototype Mark 1.0 Muscle with Evil Genius Kevin Fehr </p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_8221.JPEG" alt=""><figcaption><p>Proof of concept of training capabilities with Evil Genius Kevin Fehr </p></figcaption></figure>
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
@@ -48,7 +48,7 @@ Want to know more? Need details?
 [Click here for a more in-depth description of our company and business model.](welcome-the-delta-docs-home/about-us.md)
 {% endhint %}
 
-<figure><img src=".gitbook/assets/IMG_1294.JPEG" alt=""><figcaption><p>Prototype of Mark 1.0 muscle with prototype node control</p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_1294.JPEG" alt=""><figcaption><p>Prototype of Mark 1.0 actuator with prototype Node Controller</p></figcaption></figure>
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
