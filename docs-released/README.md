@@ -14,9 +14,9 @@ coverY: 0
 
 ## <mark style="color:orange;">A Quick Disclaimer</mark>
 
-You're going to read a lot here about open-source this, commercial use that, and even the scary; _protected material..._
+You're going to read a lot throughout for documentation about open-source this, commercial use that, and even the scary; _protected material..._
 
-All you need to know for now is this:
+All you need to know to start is this:
 
 1. If something is labeled "Open-source" it means you can use it, free of charge! Do whatever you want with it to your hearts content. With this important exception: You may not use said open-source materials to create a product that you sell, license, or use for any commercial activity.
 2. If something is labeled as "Free for Commercial Use" than this means that either for a charge or no charge at all (this is at Delta Robotics' discretion), you can take this listed content or product on the repository and use it for commercial activity.
@@ -40,10 +40,10 @@ So now you're left asking: Who is Delta? What is Delta? Where is Delta?&#x20;
 
 Delta Robotics is a Texas-based tech startup looking to revolutionize the robotics industry with cutting edge artificial muscle technologies. We are a small team dedicated to taking our technology and putting it in the hands of people like you and making products people need! Whether your a developer, tech enthusiast, or problem solver, we want dedicated users like you to interact and utilize our technology.&#x20;
 
-Delta Robotics is pioneering the development of advanced Nitinol artificial muscle technology to revolutionize the robotic and prosthetic spaces. We make this technology accessible and affordable, reducing barriers for inventors to create their own bionic devices with ThermoFlex™ at the core. Our dual approach combines proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community to drive biomechatronic advancement.
+Delta Robotics is pioneering the development of multiple advanced Nitinol artificial muscle technologies to revolutionize the robotics and prosthetic spaces. We intend to make these technologies accessible and affordable, thus reducing barriers of entry for inventors to create their own bionic devices and allowing ThermoFlex™ to be at the core of their devices. Our dual headed approach combines our proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community with the shared goal of driving biomechatronic advancement.&#x20;
 
 {% hint style="info" %}
-Can't get enough? Want to know more about us?
+Want to know more? Need details?
 
 [Click here for a more in-depth description of our company and business model.](welcome-the-delta-docs-home/about-us.md)
 {% endhint %}
