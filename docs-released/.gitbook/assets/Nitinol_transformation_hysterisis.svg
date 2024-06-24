@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="425.18" width="399.43" version="1.1">
+ <defs id="defs4">
+  <marker id="Arrow2MstartM" refY="0" refX="0" overflow="visible" orient="auto">
+   <path id="path3045" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="scale(.6)" stroke="#00f" stroke-width=".625" fill="#00f"/>
+  </marker>
+  <marker id="Arrow2Mendj" refY="0" refX="0" overflow="visible" orient="auto">
+   <path id="path3048" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="scale(-.6)" stroke="#f00" stroke-width=".625" fill="#f00"/>
+  </marker>
+ </defs>
+ <g id="layer1" transform="translate(-24.619 -607.89)">
+  <text id="text9154" font-size="35px" y="1014.3895" x="149.14969" font-family="serif" fill="#000000"><tspan id="tspan9156" y="1014.3895" x="149.14969" >Temperature</tspan></text>
+  <text id="text9154-7" transform="rotate(-90)" font-size="35px" y="61.938583" x="-977.4375" fill="#000000"><tspan id="tspan9156-4" y="61.938583" x="-977.4375" >Nitinol transformation</tspan></text>
+  <g stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5" fill="none">
+   <path id="path3864" d="m97.202 682.02h128.77" stroke="#f00"/>
+   <path id="path4330" d="m97.202 682.02h56.608" stroke="#00f"/>
+   <path id="path4328" d="m153.81 682.02c15.32 0 23.642 6.6328 31.01 15.842" stroke="#00f"/>
+   <path id="path4326" d="m184.82 697.86c7.5634 9.4532 12.621 21.412 15.986 32.106" stroke="#00f"/>
+   <path id="path4324" d="m200.81 729.97c6.642 21.106 12.599 44.89 18.316 67.818 5.7167 22.928 11.193 45.002 16.873 62.687" marker-mid="url(#Arrow2MstartM)" stroke="#00f"/>
+   <path id="path4322" d="m236 860.48c4.493 13.99 14.218 71.044 56.906 71.044" stroke="#00f"/>
+   <path id="path3018" d="m292.9 931.52h109.9" stroke="#00f"/>
+   <path id="path4318" d="m225.97 682.02c15.32 0 23.642 6.6328 31.01 15.842" stroke="#f00"/>
+   <path id="path4316" d="m256.98 697.86c7.5634 9.4532 12.621 21.412 15.986 32.106" stroke="#f00"/>
+   <path id="path4314" d="m272.97 729.97c6.642 21.106 12.599 44.89 18.316 67.818 5.7167 22.928 11.193 45.002 16.873 62.687" marker-mid="url(#Arrow2Mendj)" stroke="#f00"/>
+   <path id="path4312" d="m308.16 860.48c4.493 13.99 14.218 71.044 56.906 71.044" stroke="#f00"/>
+   <path id="path3018-5" d="m365.06 931.52h37.733" stroke="#f00"/>
+  </g>
+  <g font-size="25px" font-family="serif" fill="#000000">
+   <text id="text9154-6" y="716.27014" x="131.21422"><tspan id="tspan9156-8" y="716.27014" x="131.21422" >M<tspan id="tspan9188" dy="5" font-size="70%" style="baseline-shift:sub">f</tspan></tspan></text>
+   <text id="text9154-7-6" y="941.26355" x="220.30075"><tspan id="tspan9156-4-1" y="941.26355" x="220.30075" >M<tspan id="tspan9241" dy="5" font-size="70%" style="baseline-shift:sub">s</tspan></tspan></text>
+   <text id="text9154-7-1" y="685.71265" x="264.34424"><tspan id="tspan9156-4-7" y="685.71265" x="264.34424" >A<tspan id="tspan9264" dy="5" font-size="70%" style="baseline-shift:sub">s</tspan></tspan></text>
+   <text id="text9154-7-69" y="907.98822" x="346.43799"><tspan id="tspan9156-4-2" y="907.98822" x="346.43799" >A<tspan id="tspan9275" dy="5" font-size="70%" style="baseline-shift:sub">f</tspan></tspan></text>
+ </g>
+ </g>
+</svg>

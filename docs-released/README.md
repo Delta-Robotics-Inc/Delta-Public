@@ -1,7 +1,7 @@
 ---
 description: >-
-  Where are you? You're in the Delta Robotics public documents repository!
-  You'll find tutorials, product specifications, community contributed content,
+  Where are you? You're in the Delta Robotics public documents repository! Here
+  you'll find tutorials, product specifications, community contributed content,
   and how to get started.
 cover: >-
   https://images.unsplash.com/photo-1569235186275-626cb53b83ce?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxmaWxlc3xlbnwwfHx8fDE3MTgwNjI3NjJ8MA&ixlib=rb-4.0.3&q=85
