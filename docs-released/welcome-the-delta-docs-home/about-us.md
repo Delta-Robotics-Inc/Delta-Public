@@ -8,7 +8,7 @@ coverY: 0
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2><mark style="color:orange;">What is Delta doing?</mark></h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png">corporateaction.asp-FINAL-d8a1d133e30f4b46adf67479f19332e7.png</a></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/businessman-hand-holding-blocks.jpeg">businessman-hand-holding-blocks.jpeg</a></td></tr><tr><td><h2><mark style="color:orange;">What problem are we solving?</mark></h2></td><td>Delta Robotics is pioneering the development of advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td><h2><mark style="color:orange;">How are we solving this?</mark></h2></td><td>At Delta Robotics, we address these issues by making our Nitinol technology accessible and affordable with a open-source repository accompanying it. By placing our technology at the core of their creations, we empower individuals to build innovative and cost-effective bionic devices, thus democratizing access to life-changing technology.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/NiTi_structure_transformation.jpg">NiTi_structure_transformation.jpg</a></td></tr></tbody></table>
 
-## <mark style="color:orange;">What is the technology behind the solution?</mark>
+## <mark style="color:orange;">The technology behind the solution.</mark>
 
 {% tabs %}
 {% tab title="Proprietary Tech" %}
@@ -22,15 +22,15 @@ Our community is empowered to collaborate on open bionic designs using the Therm
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-## <mark style="color:orange;">Delta Business Model</mark>
+## <mark style="color:orange;">The Delta Business Model</mark>
 
 At Delta Robotics, we aim to tackle both proprietary, patented development of bionic devices while also fostering an open-source control system for our growing community. Doing so is a difficult task that requires rigorous transparency with both investors and open-source developers on what technology is protected and which is open for contribution.
 
-### <mark style="color:orange;">What does Open-Source look like to Delta?</mark>
+### What does Open-Source look like to Delta?
 
 At the heart of our innovation and company model is a mission to maintain an open-source repository for our consumers and developers whilst maintaining the financial viability for our company to stay alive and keep the lights on! What this looks like for you is access to an open-source repository that will give you the knowledge, guides, and community driven projects/content to create your own devices. We understand that not everyone has the time, money, and expertise to create their own devices.  To sustain our operations, we sell consumers a product if they don't want to or can't create their own devices.
 
-### <mark style="color:orange;">Commercial Use</mark>
+### Commercial Use
 
 While we believe in having a robust and open-source community, we can't survive without a monetary stream.  All designs contributed on by the community retain full open-source benefits, including commercial use.  Key products, like the ThermoFlex Mk.1, are patent-protected devices that will be protected commercially by Delta Robotics.  See the "Open Source Initiatives" and "Protected Intellectual Property" sections below to see which projects are community-driven and which are commercially protected.
 
@@ -38,7 +38,7 @@ While we believe in having a robust and open-source community, we can't survive 
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-### <mark style="color:orange;">Open Source Initiatives</mark>
+## <mark style="color:orange;">Open Source Initiatives</mark>
 
 For our open-source effort, the Nitinol control system and shape-set training process are community projects.  The design of Delta Robotics muscle controllers and the firmware that run them will be forever community driven. &#x20;
 
@@ -48,7 +48,7 @@ Additionally, shape-setting Nitinol wire into a new trained geometry can be acco
 
 <figure><img src="../.gitbook/assets/file.excalidraw.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:orange;">Protected Intellectual Property</mark>
+## <mark style="color:orange;">Protected Intellectual Property</mark>
 
 As a corporation, Delta Robotics has a responsibility to its shareholders and employees to grow and seek profit from our efforts.  Delta is a major contributor to this Nitinol open-source initiative, with a business interest in its success.  In doing so, we will retain the commercial rights to actuator designs researched and produced by the company.  Currently, this includes our ThermoFlex™ Mk.1 platform and our planned ThermoFlex™ Mk.2.
 
@@ -61,7 +61,7 @@ As a corporation, Delta Robotics has a responsibility to its shareholders and em
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-### <mark style="color:orange;">Medical Availability</mark>
+## <mark style="color:orange;">Medical Availability</mark>
 
 With this business model, Delta Robotics maintains protection over our research efforts without withholding anything from the community.  The entire Nitinol actuation system can be reproduced for personal use with portions completely open.
 
