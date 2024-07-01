@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-released/SUMMARY.md",
+                "file": "docs-released/welcome-the-delta-docs-home/about-us.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs-released/SUMMARY.md",
+                "file": "docs-released/welcome-the-delta-docs-home/about-us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs-released/SUMMARY.md",
+                "file": "docs-released/welcome-the-delta-docs-home/about-us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-released/SUMMARY.md"
+                "file": "docs-released/welcome-the-delta-docs-home/about-us.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,18 +156,21 @@
   },
   "active": "b64171678289167b",
   "lastOpenFiles": [
-    "docs-released/getting-started/delta-client-control-software.md",
+    "docs-released/welcome-the-delta-docs-home/contact-us.md",
     "docs-released/SUMMARY.md",
+    "docs-released/welcome-the-delta-docs-home/about-us.md",
+    "docs-internal/SUMMARY.md",
+    "docs-internal/backing-some-stuff-up.md",
+    "docs-internal/backing-some-stuff-up-pt2.md",
+    "docs-internal/README.md",
+    "docs-released/getting-started/thermoflex-duo.md",
+    "docs-released/getting-started/delta-client-control-software.md",
     "docs-released/getting-started/nitinol-faq.md",
     "conflict-files-obsidian-git.md",
     "docs-released/getting-started/thermoflex-node.md",
-    "docs-released/getting-started/thermoflex-duo.md",
-    "docs-released/welcome-the-delta-docs-home/contact-us.md",
-    "docs-internal/backing-some-stuff-up.md",
     "SUMMARY.md",
     "docs-released/getting-started/Software.md",
     "docs-released/getting-started/README.md",
-    "docs-released/welcome-the-delta-docs-home/about-us.md",
     "docs-released/welcome-the-delta-docs-home/README.md",
     "docs-released/README.md",
     "docs-released/products/thermoflex-duo/applications.md",
