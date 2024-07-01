@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs-released/welcome-the-delta-docs-home/about-us.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -156,9 +156,11 @@
   },
   "active": "b64171678289167b",
   "lastOpenFiles": [
-    "docs-internal/backing-some-stuff-up.md",
-    "docs-released/welcome-the-delta-docs-home/about-us.md",
     "docs-released/SUMMARY.md",
+    "docs-released/welcome-the-delta-docs-home/about-us.md",
+    "docs-released/README.md",
+    "docs-released/getting-started.md",
+    "docs-internal/backing-some-stuff-up.md",
     "docs-released/welcome-the-delta-docs-home/contact-us.md",
     "docs-internal/SUMMARY.md",
     "docs-internal/backing-some-stuff-up-pt2.md",
@@ -172,7 +174,6 @@
     "docs-released/getting-started/Software.md",
     "docs-released/getting-started/README.md",
     "docs-released/welcome-the-delta-docs-home/README.md",
-    "docs-released/README.md",
     "docs-released/products/thermoflex-duo/applications.md",
     "docs-released/getting started/ThermoFlex.md",
     "getting started/Delta.md",
