@@ -1,8 +1,5 @@
 ---
-description: >-
-  Need info heavy datasheet? Want to feel like a true engineer looking over
-  specifications? Don't want to blow up your house powering Thermoflex™? Read
-  me!
+description: We're still working on this! Check back after our official launch in August!
 ---
 
 # Datasheets and Tech Docs
