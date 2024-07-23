@@ -1,3 +1,3 @@
 # Updates and Newsletter
 
-I've got all those cool updates info and even a newsletter. That previous page only contains a fraction of my content!
+We're still working on this! Check back after our official launch in August!
