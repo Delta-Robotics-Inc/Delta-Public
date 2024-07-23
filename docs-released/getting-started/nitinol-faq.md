@@ -4,13 +4,28 @@ description: Need to know about Nitinol? You're in the right place!
 
 # Nitinol FAQ
 
-Here are the generalized properties of Nitinol alloy:
+Here are the [generalized properties](https://en.wikipedia.org/wiki/Nickel\_titanium) of Nitinol alloy:
 
-<div align="left">
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-16 010825.png" alt="" width="326"><figcaption></figcaption></figure>
 
-</div>
+| Material properties                                                                                            | Value                       |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [Melting point](https://en.wikipedia.org/wiki/Melting\_point)                                                  | 1,310 °C (2,390 °F)         |
+| [Density](https://en.wikipedia.org/wiki/Density)                                                               | 6.45 g/cm3 (0.233 lb/cu in) |
+| [Electrical resistivity](https://en.wikipedia.org/wiki/Electrical\_resistivity\_and\_conductivity) (austenite) | 82×10−6 Ω·cm                |
+| (martensite)                                                                                                   | 76×10−6 Ω·cm                |
+| [Thermal conductivity](https://en.wikipedia.org/wiki/Thermal\_conductivity) (austenite)                        | 0.18 W/cm·K                 |
+| (martensite)                                                                                                   | 0.086 W/cm·K                |
+| [Coefficient of thermal expansion](https://en.wikipedia.org/wiki/Thermal\_expansion) (austenite)               | 11×10−6/°C                  |
+| (martensite)                                                                                                   | 6.6×10−6/°C                 |
+| [Magnetic permeability](https://en.wikipedia.org/wiki/Magnetic\_permeability)                                  | < 1.002                     |
+| [Magnetic susceptibility](https://en.wikipedia.org/wiki/Magnetic\_susceptibility) (austenite)                  | 3.7×10−6 emu/g              |
+| (martensite)                                                                                                   | 2.4×10−6 emu/g              |
+| [Elastic modulus](https://en.wikipedia.org/wiki/Elastic\_modulus) (austenite)                                  | 75–83 GPa                   |
+| (martensite)                                                                                                   | 28–40 GPa                   |
+| [Yield strength](https://en.wikipedia.org/wiki/Yield\_strength) (austenite)                                    | 195–690 MPa                 |
+| (martensite)                                                                                                   | 70–140 MPa                  |
+| [Poisson's ratio](https://en.wikipedia.org/wiki/Poisson's\_ratio)                                              | 0.33                        |
 
 Shape memory Nitinol has three main phases; Twined Martensite, De-twinned Martensite, and Austenite phases. The Image below shows at what atomic phases the Nitinol is in during heating and cooling cycles. For how this relates to Delta Robotics ThermoFlex actuators:
 
