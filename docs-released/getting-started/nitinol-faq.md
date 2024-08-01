@@ -51,6 +51,6 @@ Due to the Nature of Nitinol is has a hysteretic curve for temperature vs strain
 
 
 
-While the Nitinol we currently use at Delta is a 90 Degree Celsius Activation Temperature Nitinol alloy we can have Nitinol's activation temperature, otherwise known as Martensite start (Ms), change based on the Ratio of Nickel to Titanium. The greater percentage that Nickel takes up in the alloy content the lower the activation temperature is. Below is a graph of this relationship.
+While the Nitinol we currently use at Delta is a 90 Degree Celsius Activation Temperature Nitinol alloy we can have Nitinol's activation temperature, otherwise known as Austenite finish (Af), change based on the Ratio of Nickel to Titanium. The greater percentage that Nickel takes up in the alloy content the lower the activation temperature is. Below is a graph of this relationship.
 
 <figure><img src="../.gitbook/assets/Nitinol_Ms_vs_Ni_content.jpg" alt="" width="563"><figcaption></figcaption></figure>
