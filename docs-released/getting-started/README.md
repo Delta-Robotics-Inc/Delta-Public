@@ -10,7 +10,7 @@ If you need help with your new ThermoFlex™ Kit or any one of its components, t
 * ThermoFlex™ Node (Controller)
 * Delta Client Control Software
 
-To access the python library required to move the muscle and commincate with the Node Controllers, please visit the link below:
+To access the python library required to move the muscle and communicate with the Node Controllers, please visit the link below:
 
 {% embed url="https://github.com/Delta-Robotics-Inc/TF-Python-Serial/tree/dev/" %}
 
