@@ -12,6 +12,6 @@ If you need help with your new ThermoFlex™ Kit or any one of its components, t
 
 To access the python library required to move the muscle and communicate with the Node Controllers, please visit the link below:
 
-{% embed url="https://github.com/Delta-Robotics-Inc/TF-Python-Serial/tree/dev/" %}
+{% embed url="https://github.com/Delta-Robotics-Inc/ThermoFlex-Python-API/tree/dev" %}
 
 The `getting-started/` folder should be a good place to start.  Make sure to follow the library installation instructions inside of the `python-serial/` folder.
