@@ -42,7 +42,7 @@ The Greek delta symbol, Δ, is the mathematical representation of change.  It is
 
 Delta Robotics is a Texas-based tech startup developing advanced Nitinol artificial muscle technology to revolutionize the robotics and prosthetic spaces.  We are a small team dedicated to taking our technology and putting it in the hands of inventors and making products people need!  Whether you're a professional engineer, tech enthusiast, or problem solver, we want dedicated users like you to shape our technology and work with us to build bionic devices.&#x20;
 
-We intend to make these technologies accessible and affordable, thus reducing barriers of entry for inventors to create their own bionic devices and allowing ThermoFlex™ to be at the core of their devices.  Our dual headed approach combines our proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community with the shared goal of driving biomechatronic advancement.&#x20;
+We intend to make these technologies accessible and affordable, thus reducing barriers of entry for inventors to create their own bionic devices. Our dual headed approach combines our proprietary ThermoFlex™ actuators with open-source control systems and training methods, empowering a vibrant community with the shared goal of driving biomechatronic advancement.&#x20;
 
 {% hint style="info" %}
 Want to learn more about us?

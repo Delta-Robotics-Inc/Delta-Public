@@ -22,7 +22,7 @@ We recognize the difficulty of working with Nitinol outside research settings, e
 {% endtab %}
 
 {% tab title="Proprietary Tech" %}
-More info comming soon...
+More info coming soon...
 {% endtab %}
 
 {% tab title="Open-Source Tech" %}
