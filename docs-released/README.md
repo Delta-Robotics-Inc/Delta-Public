@@ -30,7 +30,7 @@ On to the fun stuff....
 
 We at Delta envision a vibrant open-source community working together to build robotics systems such as powered prosthetics, assisted mobility devices, and humanoid robots.  We wish to participate in such a community in order to power innovation, improve lives, and enable other companies and enthusiasts to create devices never before possible.
 
-<figure><img src=".gitbook/assets/IMG_8221.JPEG" alt=""><figcaption><p>Nitinol shape test prototype featuring Evil Genius Kevin Fehr </p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_8221.JPEG" alt=""><figcaption><p>Nitinol shape test prototype with our CEO, Kevin Fehr </p></figcaption></figure>
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 

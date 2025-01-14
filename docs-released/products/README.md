@@ -1,21 +1,6 @@
 # Products
 
-<figure><img src="../.gitbook/assets/ThermoFlex Duo Mk.1 Kit Contents-Layout1.jpg" alt=""><figcaption></figcaption></figure>
+## Our Products
 
-## Page Overview
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="thermoflex-duo/"><strong>ThermoFlex™ Duo</strong></a></td><td>(1 sentence description)</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="thermoflex-node/"><strong>ThermoFlex™ Node</strong></a></td><td>(1 sentence description)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-* Overview of Products&#x20;
-* Introduction to ThermoFlex Duo and ThermoFlex Node&#x20;
-* General Features and Benefits
-
-
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
