@@ -49,5 +49,3 @@ Want to learn more about us?
 
 [Click here for a more in-depth description of our company and business model.](welcome-the-delta-docs-home/about-us.md)
 {% endhint %}
-
-<figure><img src=".gitbook/assets/IMG_1294.JPEG" alt=""><figcaption><p>Prototype of Mark 1.0 actuator with prototype Node Controller</p></figcaption></figure>
