@@ -12,7 +12,7 @@ Shape Memory Alloys are a class of materials which can store and release energy 
 
 Nitinol (Nickel-Titanium alloy) has three main phases; Twinned Martensite, De-twinned Martensite, and Austenite phases. The Image below shows the atomic phases of Nitinol during heating and cooling cycles. The process of de-twinning does not change the mechanical properties of the alloy, it only changes the alignment of the atoms, storing energy.
 
-<figure><img src=".gitbook/assets/NiTi_structure_transformation.jpg" alt="" width="563"><figcaption><p>De-twinned Martensite (left), Twinned Martensite (right), Austenite (top)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NiTi_structure_transformation.jpg" alt="" width="563"><figcaption><p>De-twinned Martensite (left), Twinned Martensite (right), Austenite (top)</p></figcaption></figure>
 
 ### Transitions as an Actuator
 
@@ -34,19 +34,19 @@ Nitinol exhibits different crystal lattice structures depending on its phase:
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Austenite Phase</strong></td><td>In the high-temperature phase, Nitinol has a B2 cubic structure. This is a body-centered cubic (BCC) lattice where nickel and titanium atoms are positioned at the corners and the center of the unit cell. This phase is much more dense than the Martensite phase because of its cubic structure.</td><td></td></tr><tr><td><strong>Martensite Phase(s)</strong></td><td>In the low-temperature phases, Nitinol transforms into Martensite, which has a less dense, elongated, structure. This phase can have different forms depending on the specific alloy composition and thermal treatment. The most common form is the Monoclinic B19' Structure; it has a distorted lattice, allowing for significant deformation and the shape memory effect. </td><td></td></tr></tbody></table>
 
-<figure><img src=".gitbook/assets/Nitinol_Austenite_and_martensite.jpg" alt="" width="563"><figcaption><p>Lattice comparison between the Austenite and Martensite phases of Nitinol.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nitinol_Austenite_and_martensite.jpg" alt="" width="563"><figcaption><p>Lattice comparison between the Austenite and Martensite phases of Nitinol.</p></figcaption></figure>
 
 ### Temperature Data
 
 Nitinol has a hysteretic curve for temperature vs strain/transformation. Below is a image of this curve with Austenite start (As), Austenite finish (Af), Martensite start (Ms), and Martensite finish (Mf) phases listed.
 
-<figure><img src=".gitbook/assets/Nitinol_transformation_hysterisis.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nitinol_transformation_hysterisis.svg" alt=""><figcaption></figcaption></figure>
 
 ### Alloy Ratios
 
 Delta uses a 90 Degree Celsius Activation Temperature Nitinol alloy. It's activation temperature, otherwise known as Austenite finish (Af), changes based on the Ratio of Nickel to Titanium. A greater Nickel percentage in the alloy's composition lowers the activation temperature.&#x20;
 
-<figure><img src=".gitbook/assets/Nitinol_Ms_vs_Ni_content.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nitinol_Ms_vs_Ni_content.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Material Properties
 

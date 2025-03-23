@@ -2,7 +2,7 @@
 description: >-
   Here you will find a more in-depth description about Delta Robotics, what we
   do, and our current projects.
-cover: ../.gitbook/assets/IMG_7966.JPEG
+cover: ../../.gitbook/assets/IMG_7966.JPEG
 coverY: 0
 ---
 
@@ -10,9 +10,9 @@ coverY: 0
 
 ## <mark style="color:orange;">A Quick Summary:</mark>
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h3><mark style="color:orange;">What is Delta doing?</mark></h3></td><td>Delta Robotics is developing advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/IMG_9055.JPEG">IMG_9055.JPEG</a></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/BN-WB523_1109RO_J_20171109172506.jpg">BN-WB523_1109RO_J_20171109172506.jpg</a></td></tr><tr><td><h3><mark style="color:orange;">What problem are we solving?</mark></h3></td><td>The development of adaptive robotic systems has been largely closed off to the average person. This makes the creation of custom solutions to important technologies such as prosthetics non-feasible.  Many of these issues could be solved by companies keeping their work open source and simplifying their work in a way that the average person can understand.</td><td></td></tr><tr><td><h3><mark style="color:orange;">How are we solving this?</mark></h3></td><td>At Delta Robotics, we address these issues by making our Nitinol technology accessible and affordable with an open-source repository accompanying it. We are empowering individuals to build innovative and cost-effective bionic devices, thus democratizing access to life-changing technology.</td><td></td></tr><tr><td></td><td></td><td><a href="../.gitbook/assets/IMG_8788.JPEG">IMG_8788.JPEG</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h3><mark style="color:orange;">What is Delta doing?</mark></h3></td><td>Delta Robotics is developing advanced artificial muscle technology using Nitinol to revolutionize the bionic and robotic spaces.</td><td></td></tr><tr><td></td><td></td><td><a href="../../.gitbook/assets/IMG_9055.JPEG">IMG_9055.JPEG</a></td></tr><tr><td></td><td></td><td><a href="../../.gitbook/assets/BN-WB523_1109RO_J_20171109172506.jpg">BN-WB523_1109RO_J_20171109172506.jpg</a></td></tr><tr><td><h3><mark style="color:orange;">What problem are we solving?</mark></h3></td><td>The development of adaptive robotic systems has been largely closed off to the average person. This makes the creation of custom solutions to important technologies such as prosthetics non-feasible.  Many of these issues could be solved by companies keeping their work open source and simplifying their work in a way that the average person can understand.</td><td></td></tr><tr><td><h3><mark style="color:orange;">How are we solving this?</mark></h3></td><td>At Delta Robotics, we address these issues by making our Nitinol technology accessible and affordable with an open-source repository accompanying it. We are empowering individuals to build innovative and cost-effective bionic devices, thus democratizing access to life-changing technology.</td><td></td></tr><tr><td></td><td></td><td><a href="../../.gitbook/assets/IMG_8788.JPEG">IMG_8788.JPEG</a></td></tr></tbody></table>
 
-<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## <mark style="color:orange;">Technology Behind the Solution.</mark>
 
@@ -22,7 +22,7 @@ Our first approach is creating the patented ThermoFlex™ Nitinol actuators, whi
 
 The second strategy is to foster a vibrant open-source community, where we share and work together on the Nitinol control systems and Nitinol training methods. We aim to use this dual headed approach to bring this knowledge out of research labs and into the hands of hobbyists and innovators.
 
-<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## <mark style="color:orange;">Open Source Initiative</mark>
 
@@ -32,7 +32,7 @@ We believe that Nitinol actuators will have a strong role in the growth of advan
 
 Additionally, shape-setting Nitinol wire into a new trained geometry can be accomplished via electrical heating with resistance feedback. This process is difficult to refine and is currently a trade secret within other Nitinol-producing companies. Delta Robotics aims to develop extensive documentation, research papers, and electronics in order to democratize the creation of new Nitinol actuators. You can buy our muscles or learn how to make your own!
 
-<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## <mark style="color:orange;">Technological Applications</mark>
 
