@@ -11,7 +11,7 @@
   * [Motor Cortex™ (Coming Soon)](software/motor-cortex-tm-coming-soon.md)
 * [Tutorials](tutorials/README.md)
   * [ThermoFlex™](tutorials/thermoflex-tm/README.md)
-    * [Getting Started](tutorials/thermoflex-tm/getting-started.md)
+    * [Getting Started with our Evaluation Kit](tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md)
   * [Projects](tutorials/projects.md)
 * [Learn](learn/README.md)
   * [What is Nitinol?](learn/nitinol-faq.md)
