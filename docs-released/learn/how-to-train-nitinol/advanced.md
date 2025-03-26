@@ -8,6 +8,23 @@ Welcome to the Advanced Guide for training Nitinol wire. This page is targeted a
 
 ***
 
+### Quick Disclaimer
+
+Working with Nitinol involves high-temperature processes and equipment that carry inherent risks. Delta Robotics provides these guidelines for educational and informational purposes only. It is your responsibility to exercise caution, follow all provided safety instructions, and take appropriate safety measures.
+
+Always:
+
+* Wear appropriate protective gear, including heat-resistant gloves, safety glasses, and protective clothing.
+* Ensure proper ventilation when heating materials.
+* Maintain ready access to fire safety equipment, including fire extinguishers.
+* Handle all heated materials and equipment cautiously, using appropriate tools.
+
+Delta Robotics shall **NOT** be held responsible for any injury, damage, or loss incurred through improper or unsafe handling of materials, equipment, or processes described in our guides.
+
+Please prioritize safety at all times and perform these procedures at your own risk.
+
+***
+
 ### Precision Shape-Setting Tools and Equipment
 
 When basic tools aren’t enough, engineers turn to more controlled equipment to shape-set Nitinol. Here are some tools and methods that enable precise temperature control and repeatability:
