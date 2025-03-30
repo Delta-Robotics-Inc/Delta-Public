@@ -128,7 +128,7 @@ This includes:
 * Incorporating our technology into a product you intend to pitch, fund, or scale commercially.
 
 To request commercial licensing, please contact:\
-[kevin@deltaroboticsinc.com](mailto:kevin@deltaroboticsinc.com)
+[kevin.fehr@deltaroboticsinc.com](mailto:kevin.fehr@deltaroboticsinc.com)
 
 Be prepared to include:
 

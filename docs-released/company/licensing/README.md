@@ -188,7 +188,7 @@ We offer:
 * Certification pathways
 * Support for responsible commercialization
 
-📧 **licensing@deltarobotics.ai**
+[kevin.fehr@deltaroboticsinc.com](mailto:kevin.fehr@deltaroboticsinc.com)
 
 Let us know:
 
