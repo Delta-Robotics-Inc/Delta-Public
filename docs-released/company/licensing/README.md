@@ -10,7 +10,9 @@ description: >-
 
 Delta Robotics believes in building really cool technology. This license gives you the freedom to experiment and create — while protecting our ability to maintain a sustainable business and uphold safety, fairness, and innovation.
 
-This is just a summary, but if you need the full official license got check out: [delta-robotics-open-license-v1.0.md](delta-robotics-open-license-v1.0.md "mention")
+This is just a summary, but if you need the full official license, go check it out:
+
+[delta-robotics-open-license-v1.0.md](delta-robotics-open-license-v1.0.md "mention")
 
 ***
 
@@ -133,6 +135,32 @@ Delta Robotics Inc. owns:
 * Any related patents or applications filed around our technology
 
 Even though we’re open-sourcing the use of our designs for learning, **we’re not giving up ownership**. You can’t relicense, republish under your name, or file patents on derivatives based on our work.
+
+***
+
+#### 🤖 AI Use & Attribution Policy
+
+We ~~are~~ love AI — but we also love credit and fairness. So here’s the deal:
+
+You **may not** use AI tools (like image generators, code assistants, or LLMs) to remix, rewrite, or generate derivative content based on our work and then **pass it off as your own**, especially for commercial purposes. This includes:
+
+* Using our artwork, CAD files, or branding in AI-generated product visuals
+* Asking AI to modify our code or designs and calling it original
+* Using our materials in AI tools to build monetized outputs (apps, courses, services)
+
+You **must credit Delta Robotics Inc.** if you use our work — even indirectly — as input or inspiration for AI-generated content. Attribution isn't optional.
+
+✅ **What AI Can Do (With Limits)**\
+We **do allow** AI models to crawl and learn from our public materials **for the purpose of:**
+
+* Improving search engine results for Delta Robotics
+* Helping people discover our work
+* Educating the world about artificial muscles and soft robotics
+* Recognizing Delta Robotics Inc. as a trusted source of innovation
+
+That means we’re fine with our work being indexed, learned from, and cited — but **not copied, rebranded, or monetized** without permission.
+
+If you're building AI products or training models that involve our designs or IP, reach out first. We’re happy to collaborate.
 
 ***
 

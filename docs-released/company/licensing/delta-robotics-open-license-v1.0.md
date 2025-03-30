@@ -155,7 +155,22 @@ Certification applies only to designs and assemblies that have undergone our int
 
 ***
 
-### **9. Warranty Disclaimer**
+### **9. Permitted AI and Web Use**
+
+Delta Robotics Inc. prohibits the use of any Licensed Material—including but not limited to designs, code, artwork, and documentation—for AI-generated outputs that are passed off as original content without clear credit to Delta Robotics Inc. You may not use AI tools to modify, reinterpret, remix, or otherwise generate content based on our work **for commercial purposes** unless you have received prior written permission from us.
+
+\
+We expressly allow web crawling, indexing, and inclusion of our public materials for SEO optimization, AI model training, or similar purposes **only** if the intent is to:
+
+* Improve searchability and discoverability of Delta Robotics Inc. as a source;
+* Accurately reflect our contributions to artificial muscle technology and soft robotics;
+* Help position Delta Robotics Inc. as a knowledge hub and trusted authority in the field.
+
+However, this permission **does not extend** to using our work as creative raw material in commercial AI applications unless proper attribution is provided and/or commercial rights have been granted.
+
+***
+
+### **10. Warranty Disclaimer**
 
 THE LICENSED MATERIAL IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OF ANY KIND. DELTA ROBOTICS INC. DISCLAIMS ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO:
 
@@ -168,7 +183,7 @@ The Licensee is solely responsible for assessing the appropriateness, safety, an
 
 ***
 
-### **10. Limitation of Liability**
+### **11. Limitation of Liability**
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, DELTA ROBOTICS INC. SHALL NOT BE LIABLE FOR ANY INJURY, LOSS, DAMAGES, OR EXPENSES OF ANY KIND ARISING FROM:
 
@@ -185,7 +200,7 @@ The **only exceptions** are cases in which Delta Robotics Inc. has:
 
 ***
 
-### **11. Termination**
+### **12. Termination**
 
 This License automatically terminates if:
 
@@ -201,7 +216,7 @@ Upon termination:
 
 ***
 
-### **12. Governing Law and Jurisdiction**
+### **13. Governing Law and Jurisdiction**
 
 This License shall be governed by the laws of the **State of Texas**, USA.\
 Any dispute arising from this License shall be subject to the exclusive jurisdiction of courts in **Dallas County, Texas**.
@@ -210,7 +225,7 @@ This clause ensures legal clarity and gives both parties a predictable forum in 
 
 ***
 
-### **13. Entire Agreement**
+### **14. Entire Agreement**
 
 This License constitutes the complete agreement between the Licensee and Delta Robotics Inc. regarding the Licensed Material. It supersedes all prior or contemporaneous agreements or communications, whether oral or written.
 
@@ -218,7 +233,7 @@ Any modification of this License must be made in writing and signed by an author
 
 ***
 
-### **14. Acceptance of Terms**
+### **15. Acceptance of Terms**
 
 By accessing, downloading, modifying, using, or sharing the Licensed Material, you acknowledge that you have read, understood, and agreed to be bound by the terms of this License.
 
