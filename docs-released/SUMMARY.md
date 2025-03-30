@@ -28,7 +28,7 @@
   * [Privacy Policy](company/privacy-policy/README.md)
     * [Delta Robotics Privacy Policy v1.0](company/privacy-policy/delta-robotics-privacy-policy-v1.0.md)
   * [Brand Kit](company/brand-kit.md)
-  * [Media Kit](company/media-kit.md)
+  * [Press Kit](company/press-kit.md)
 * [Old Pages](old-pages/README.md)
   * [Welcome to Delta Docs](old-pages/readme/README.md)
     * [About Us](old-pages/readme/about-us.md)

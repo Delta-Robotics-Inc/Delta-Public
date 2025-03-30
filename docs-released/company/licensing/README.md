@@ -12,7 +12,9 @@ Delta Robotics believes in building really cool technology. This license gives y
 
 This is just a summary, but if you need the full official license, go check it out:
 
-[delta-robotics-open-license-v1.0.md](delta-robotics-open-license-v1.0.md "mention")
+{% content-ref url="delta-robotics-open-license-v1.0.md" %}
+[delta-robotics-open-license-v1.0.md](delta-robotics-open-license-v1.0.md)
+{% endcontent-ref %}
 
 ***
 

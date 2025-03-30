@@ -9,6 +9,12 @@ Delta Robotics Inc. (“we”, “our”, “us”) provides access to the follo
 
 By using these services, you agree to follow the terms on this page. If you don’t agree, don’t use the site — but we hope you’ll stick around.
 
+This is just a summary, but if you need the full official ToS, go check it out:
+
+{% content-ref url="delta-robotics-tos-v1.md" %}
+[delta-robotics-tos-v1.md](delta-robotics-tos-v1.md)
+{% endcontent-ref %}
+
 ***
 
 ### 👤 Accounts & Access

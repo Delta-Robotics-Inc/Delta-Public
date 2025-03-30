@@ -13,6 +13,12 @@ Delta Robotics Inc. ("we", "our", "us") respects your privacy and is committed t
 
 By using these websites (collectively referred to as the “Website”), you consent to the practices outlined in this policy.
 
+This is just a summary, but if you need the full official Policy, go check it out:
+
+{% content-ref url="delta-robotics-privacy-policy-v1.0.md" %}
+[delta-robotics-privacy-policy-v1.0.md](delta-robotics-privacy-policy-v1.0.md)
+{% endcontent-ref %}
+
 ***
 
 ### 🔍 What Information We Collect
