@@ -6,8 +6,6 @@ description: >-
 
 # Delta Robotics Open License v1.0
 
-## Delta Robotics Open License v1.0
-
 **Copyright © 2025 Delta Robotics Inc.**\
 All rights reserved.
 
