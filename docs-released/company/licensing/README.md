@@ -134,7 +134,7 @@ Delta Robotics Inc. owns:
 * All original designs, code, documentation, and trademarks
 * Any related patents or applications filed around our technology
 
-Even though we’re open-sourcing the use of our designs for learning, **we’re not giving up ownership**. You can’t relicense, republish under your name, or file patents on derivatives based on our work.
+Even though we’re open-sourcing the use of our designs for learning, **we’re not giving up ownership, cause it was expensive, and we worked really hard on it**. You can’t relicense, republish under your name, or file patents on derivatives based on our work. This also means that we do not own all artificial muscle tech, just the stuff we made.
 
 ***
 
