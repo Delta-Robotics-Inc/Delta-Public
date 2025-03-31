@@ -7,7 +7,7 @@ description: >-
 
 # ThermoFlex™ API
 
-```
+```bash
 pip install thermoflex
 ```
 
