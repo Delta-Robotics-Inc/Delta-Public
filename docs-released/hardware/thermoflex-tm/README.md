@@ -9,7 +9,7 @@ icon: fire
 
 Our first product is a dual-coil Nitinol artificial muscle, powered electrically and capable of lifting 25 pounds in 2 seconds with a 25 V battery.
 
-Also visit our [getting started guide](../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex kit and accompanying [Python API](../software/thermoflex-tm-api.md).
+Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex kit and accompanying [Python API](../../software/thermoflex-tm-api.md).
 
 ### Specifications
 
@@ -21,7 +21,7 @@ Question about specific values? Ask Kevin: [kevin@deltaroboticsinc.com](mailto:k
 
 ### Contraction Test Results
 
-<figure><img src="../.gitbook/assets/Figure_1_zoom.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Figure_1_zoom.png" alt=""><figcaption></figcaption></figure>
 
 **Load**: None
 

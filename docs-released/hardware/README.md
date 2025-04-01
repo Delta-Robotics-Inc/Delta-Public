@@ -5,7 +5,7 @@ icon: microchip
 
 # Hardware
 
-### [ThermoFlex™](thermoflex-tm.md)
+### [ThermoFlex™](thermoflex-tm/)
 
 * Self-Contained SMA-based smart artificial muscle system.
 
