@@ -6,7 +6,7 @@ description: >-
 
 # Wire
 
-## 🔧 Nitinol Wire: What It Is, What It Does, and How Not to Break It
+## Nitinol Wire: What It Is, What It Does, and How Not to Break It
 
 At Delta Robotics, we sell wire that moves. Not like electrical current (though yes, that too) — we’re talking **real, physical motion**. Our Nitinol wire contracts when you heat it, and then cools back into shape. It's kind of like a tiny, silent robot muscle.
 
@@ -30,11 +30,11 @@ Let’s start with the basics. Here’s what’s in the box:
 
 ***
 
-### 📐 NiTi #5: Wire Specs (But Fun)
+### 📐 NiTi: Wire Specs (But Fun)
 
-NiTi #5 is a high-temp Nitinol alloy that kicks into action around 85–95 °C. The data below is a combo of manufacturer specs, lab tests, and a healthy amount of calculator abuse.
+Our Nitinol wire kicks into action around 85–95 °C. The data below is a combo of manufacturer specs, lab tests, and a healthy amount of calculator abuse.
 
-> ⚠️ We’re still validating these numbers across labs and field tests.\
+> ⚠️ We’re still validating these numbers across lab and field tests.\
 > If you’re a Nitinol nerd and spot something weird — let us know!
 
 | **Property**               | **0.5 mm** | **1.0 mm**            | **2.0 mm**             |
@@ -150,4 +150,4 @@ For the curious, the nerdy, and the skeptical — here are some external referan
   [Shape Memory Nitinol](https://www.fwmetals.com/what-we-do/materials/nitinol/shape-memory-nitinol)\
   [NiTi Actuator Wire Datasheet (PDF)](https://www.fwmetals.com/media/pbmke3zt/0-3-mm-acuator-data-sheet.pdf)
 
-> _1.0 mm and 2.0 mm values are extrapolated from 0.5 mm data using basic math, standard assumptions, and coffee._
+> _1.0 mm and 2.0 mm values are extrapolated from 0.5 mm data using math, standard assumptions, and coffee._
