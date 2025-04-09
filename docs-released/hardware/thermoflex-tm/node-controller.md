@@ -1,6 +1,6 @@
 ---
 description: >-
-  A Joule-Heating Smart Controller for Smart Materials*. Built for Nitinol
+  A Joule-Heating Smart Controller for Smart Materials. Built for Nitinol
   Actuators and ThermoFlex Artificial Muscles
 ---
 
