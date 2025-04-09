@@ -4,6 +4,8 @@ description: A guide of unboxing and operations for our ThermoFlex™ Mk.1 Evalu
 
 # Getting Started with our Evaluation Kit
 
+[Get your ThermoFlex Evaluation Kit here](https://www.deltaroboticsinc.com/product-page/thermoflex-node-controller)
+
 <figure><img src="../../.gitbook/assets/2025-02-15 15.12.49.jpg" alt=""><figcaption></figcaption></figure>
 
 Welcome to the ThermoFlex™ ecosystem! This guide will walk you through everything you need—from unboxing your ThermoFlex™ device to running your first Python program.
