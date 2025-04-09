@@ -13,6 +13,8 @@ Below are some handy links to help you start your journey, or use the left sideb
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Hardware</h2></td><td>The core hardware documentation you need to start your next project.</td><td></td><td><a href="hardware/">hardware</a></td></tr><tr><td><h2>Software</h2></td><td>The tools required to control and configure our artificial muscles.</td><td></td><td><a href="software/">software</a></td></tr><tr><td><h2>Tutorials</h2></td><td>Start using artificial muscles in your projects with easy to follow walkthroughs.</td><td></td><td><a href="tutorials/">tutorials</a></td></tr><tr><td><h2>Learn</h2></td><td>For those interested in the technology behind our muscles or are interested in making their own.</td><td></td><td><a href="learn/">learn</a></td></tr><tr><td><h2>Company</h2></td><td>We know that you're obsessed with us.</td><td></td><td><a href="company/">company</a></td></tr></tbody></table>
 
+<div align="left" data-full-width="true"><figure><img src=".gitbook/assets/ezgif-63981bc1e5b84b.gif" alt="" width="375"><figcaption><p>ThermoFlex Mk.1 Muscle Lifting 8 pounds</p></figcaption></figure></div>
+
 ## What is This?
 
 Delta Robotics Documentation is your ultimate resource for unlocking the potential of artificial muscle technology. As a small startup, we're passionately building the kind of soft actuators we've always dreamed of and continually striving to improve our technology and designs. Despite the challenges, we invite you to join us in setting a new standard for artificial muscle actuators.
