@@ -11,7 +11,7 @@
     * [Wire](hardware/nitinol/wire.md)
     * [Spring](hardware/nitinol/spring.md)
 * [Software](software/README.md)
-  * [ThermoFlex™ API](software/thermoflex-tm-api.md)
+  * [ThermoFlex™ Python API](software/thermoflex-tm-python-api.md)
   * [Delta Client (Coming Soon)](software/delta-client-coming-soon.md)
   * [Motor Cortex™ (Coming Soon)](software/motor-cortex-tm-coming-soon.md)
 * [Tutorials](tutorials/README.md)

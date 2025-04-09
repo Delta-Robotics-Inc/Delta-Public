@@ -9,7 +9,7 @@ icon: fire
 
 Our first product is a dual-coil Nitinol artificial muscle capable of lifting 25 pounds in 2 seconds with a 25 V battery.
 
-Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-api.md).
+Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
 
 ### Specifications
 
