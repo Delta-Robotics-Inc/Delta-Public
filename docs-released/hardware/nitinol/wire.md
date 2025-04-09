@@ -30,9 +30,18 @@ Let’s start with the basics. Here’s what’s in the box:
 
 ***
 
-### 📐 NiTi: Wire Specs (But Fun)
+### ✅ Best Practices (a.k.a. How Not to Mess It Up)
 
-Our Nitinol wire kicks into action around 85–95 °C. The data below is a combo of manufacturer specs, lab tests, and a healthy amount of calculator abuse.
+* ✅ Use screw terminals or mechanical anchors
+* 🚫 Avoid soldering (unless pre-tabbed)
+* ⚖️ Pre-tension slightly — but **don’t stretch it**
+* 🔁 Stay under **5% strain** if you want it to last
+
+***
+
+### 📐 NiTi: Wire Specs
+
+Our Nitinol wire kicks into action around 85–95 °C. The data below is a combination of manufacturer specs, lab tests, and a healthy amount of calculator abuse.
 
 > ⚠️ We’re still validating these numbers across lab and field tests.\
 > If you’re a Nitinol nerd and spot something weird — let us know!
@@ -68,7 +77,7 @@ Here’s the short version: less strain = longer life. Push it too far, and it�
 
 #### ThermoFlex™ Node Controller
 
-All of our wires work with our **ThermoFlex™ Node Controller**, built by people who really love robots (and hate magic smoke).
+All of our wires work with our **ThermoFlex™ Node Controller**, built by people who really love robots and hate magic smoke.
 
 * Pre-made wire profiles (coming soon)
 * USB & Serial control (yes, you can script it)
@@ -76,17 +85,17 @@ All of our wires work with our **ThermoFlex™ Node Controller**, built by peopl
 * 60 A output — enough to power even 2 mm wire for an under 1-second contraction time
 
 It runs on **Arduino Minima**, talks over **CAN**, and supports up to **200 devices** from one USB cable.\
-Also? It helped us shape-set actuators electrically before we got a fancy furnace. Nerd cred confirmed.
+Also? It helped us shape-set actuators electrically before we got a fancy furnace.&#x20;
 
 [Read the Nitinol Training Guide →](https://docs.deltaroboticsinc.com/learn/how-to-train-nitinol)
 
 ***
 
-#### ❄️ Cooling Tips
+### ❄️ Cooling Tips
 
 Want your wire to move faster? Get it cold, quickly.
 
-* **Air Cooling**\
+* **Air Cooling to Room Temperature**\
   \~14 s for 0.5 mm\
   \~40 s for 1.0 mm\
   \~100 s for 2.0 mm\
@@ -119,7 +128,7 @@ Getting the wire connected is an underrated art form. Here's your cheat sheet:
 
 ***
 
-#### 🧪 Experimental: Soldering Nitinol
+### 🧪 Experimental: Soldering Nitinol
 
 **Don’t try this at home — seriously.**
 
@@ -133,15 +142,6 @@ Yes, it’s _technically_ possible. But first you have to:
 
 ***
 
-### ✅ Best Practices (a.k.a. How Not to Mess It Up)
-
-* ✅ Use screw terminals or mechanical anchors
-* 🚫 Avoid soldering (unless pre-tabbed)
-* ⚖️ Pre-tension slightly — but **don’t stretch it**
-* 🔁 Stay under **5% strain** if you want it to last
-
-***
-
 ### 📚 Sources & References
 
 For the curious, the nerdy, and the skeptical — here are some external referances:
@@ -150,4 +150,4 @@ For the curious, the nerdy, and the skeptical — here are some external referan
   [Shape Memory Nitinol](https://www.fwmetals.com/what-we-do/materials/nitinol/shape-memory-nitinol)\
   [NiTi Actuator Wire Datasheet (PDF)](https://www.fwmetals.com/media/pbmke3zt/0-3-mm-acuator-data-sheet.pdf)
 
-> _1.0 mm and 2.0 mm values are extrapolated from 0.5 mm data using math, standard assumptions, and coffee._
+> _1.0 mm and 2.0 mm wire specifications are extrapolated from 0.5 mm data using math, standard assumptions, and coffee._
