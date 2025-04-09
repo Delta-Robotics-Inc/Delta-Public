@@ -1,5 +1,5 @@
 ---
-description: Self-Contained SMA-based smart artificial muscle system.
+description: Mountable SMA-based smart artificial muscle system for robotics.
 icon: fire
 ---
 
