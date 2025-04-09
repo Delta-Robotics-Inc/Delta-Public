@@ -5,28 +5,8 @@ icon: fire
 
 # ThermoFlex™
 
-## ThermoFlex™ Mk.1 Muscle
-
-Our first product is a dual-coil Nitinol artificial muscle capable of lifting 25 pounds in 2 seconds with a 25 V battery.
-
-Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
-
-### Specifications
-
-<table><thead><tr><th>Parameter</th><th width="249">Minimum</th><th>Maximum</th></tr></thead><tbody><tr><td>Nominal voltage</td><td>3 V</td><td>25 V</td></tr><tr><td>Resistance</td><td>235 mOhms (Af)</td><td>250 mOhms (Mf)</td></tr><tr><td>Instantaneous Current</td><td>(Dependent on PWM %)</td><td>106 A (2s contraction)</td></tr><tr><td>Pull Force</td><td>5 lbs (Extension return force)</td><td>25 lbs</td></tr><tr><td>Contraction Time</td><td>-</td><td>2s @ 25 V</td></tr></tbody></table>
-
-Question about specific values? Ask Kevin: [kevin@deltaroboticsinc.com](mailto:kevin@deltaroboticsinc.com)
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>ThermoFlex Node Controller</td><td><a href="tf-node-controller.md">tf-node-controller.md</a></td><td><a href="../../.gitbook/assets/IMG_2907_edited_edited.png">IMG_2907_edited_edited.png</a></td></tr><tr><td>ThermoFlex Mk.1 Muscle</td><td><a href="tf-mk.1-muscle.md">tf-mk.1-muscle.md</a></td><td><a href="../../.gitbook/assets/2025-02-15 15.12_edited.png">2025-02-15 15.12_edited.png</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 
-### Contraction Test Results
-
-**Load**: None
-
-**Set Current:** 15 A
-
-**Time to Contract (TTC)**: 35.311 s
-
-**Total Power Consumption**: 1923 J (\~0.5 Wh)
-
-<figure><img src="../../.gitbook/assets/Figure_1_zoom.png" alt=""><figcaption></figcaption></figure>
+Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit, Node Controller, and accompanying [Python API](../../software/thermoflex-tm-python-api.md).

@@ -5,7 +5,11 @@ description: >-
   expandable control.
 ---
 
-# Node Controller
+# TF Node Controller
+
+**Pronunciation:** _THER-moh-fleks nohd kun-TROH-lur_
+
+Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
 
 ### ⚡ What It Does
 
