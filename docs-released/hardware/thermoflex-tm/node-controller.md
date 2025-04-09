@@ -1,5 +1,7 @@
 ---
-description: Controller for Nitinol and ThermoFlex Artificial Muscles
+description: >-
+  A Joule-Heating Smart Controller for Smart Materials*. Built for Nitinol
+  Actuators and ThermoFlex Artificial Muscles
 ---
 
 # Node Controller
