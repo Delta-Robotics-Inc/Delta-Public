@@ -10,6 +10,8 @@ description: >-
 
 Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
 
+<figure><img src="../../.gitbook/assets/2025-02-15 15.12_edited.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### Specifications
 
 <table><thead><tr><th>Parameter</th><th width="249">Minimum</th><th>Maximum</th></tr></thead><tbody><tr><td>Nominal voltage</td><td>3 V</td><td>25 V</td></tr><tr><td>Resistance</td><td>235 mOhms (Af)</td><td>250 mOhms (Mf)</td></tr><tr><td>Instantaneous Current</td><td>(Dependent on PWM %)</td><td>106 A (2s contraction)</td></tr><tr><td>Pull Force</td><td>5 lbs (Extension return force)</td><td>25 lbs</td></tr><tr><td>Contraction Time</td><td>-</td><td>2s @ 25 V</td></tr></tbody></table>

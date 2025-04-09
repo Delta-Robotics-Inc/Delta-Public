@@ -11,6 +11,8 @@ description: >-
 
 Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
 
+<figure><img src="../../.gitbook/assets/IMG_2907_edited_edited.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### ⚡ What It Does
 
 The ThermoFlex™ Node is your desktop control lab for smart materials. Originally built for shape memory alloys like Nitinol, it also supports experimental actuators like twisted polymer (TCP) muscles and other Joule-heated materials (experimental, reach out for more information).
@@ -52,7 +54,7 @@ Everything you need for smart material actuation in one dense, overengineered pa
 * **RGB LED** – used for device status signals
 * **AUX Button** – reprogrammable for reset, trigger, or anything else
 * **DC jack (Arduino)** – optional secondary power for Arduino MCU only
-* &#x20;**Sick AF 3D-Printed Enclosure** – with frosted acrylic top, compliant buttons, visible status and power terminals (and yes, that's the official name)
+* **Sick AF 3D-Printed Enclosure** – with frosted acrylic top, compliant buttons, visible status and power terminals (and yes, that's the official name)
 
 ***
 
