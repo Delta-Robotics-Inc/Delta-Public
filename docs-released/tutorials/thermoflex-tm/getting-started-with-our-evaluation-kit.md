@@ -146,6 +146,6 @@ We recommending running program once before connecting the muscle to the node. Y
 
 You are now ready to start working with ThermoFlex. Enjoy building cool projects!
 
-<figure><img src="../../.gitbook/assets/1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ***
