@@ -4,7 +4,7 @@ description: >-
   Delta Robotics' artificial muscle systems — in just one command.
 ---
 
-# ThermoFlex™ API
+# ThermoFlex™ Python API
 
 Welcome to the brains of the operation. The **ThermoFlex™ API** is your all-access Python interface to the ThermoFlex Artificial Muscle System — letting you command contractions, query sensors, and coordinate motion across your Delta Robotics hardware like a pro.
 
@@ -44,6 +44,8 @@ You should see pip download and install the package. When it finishes, you’ll 
 Want to dive deeper, fork it, or just see what kind of code we write after midnight?
 
 [View on GitHub →](https://github.com/Delta-Robotics-Inc/ThermoFlex-Python-API)
+
+[Running your first program with the API →](https://docs.deltaroboticsinc.com/tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit#running-your-first-program)
 
 ***
 
