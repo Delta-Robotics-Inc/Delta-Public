@@ -43,9 +43,9 @@ You should see pip download and install the package. When it finishes, you’ll 
 
 Want to dive deeper, fork it, or just see what kind of code we write after midnight?
 
-[View on GitHub →](https://github.com/Delta-Robotics-Inc/ThermoFlex-Python-API)
+[View on GitHub](https://github.com/Delta-Robotics-Inc/ThermoFlex-Python-API)
 
-[Running your first program with the API →](https://docs.deltaroboticsinc.com/tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit#running-your-first-program)
+[Running your first program with the API](https://docs.deltaroboticsinc.com/tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit#running-your-first-program)
 
 ***
 
