@@ -24,3 +24,5 @@ Explore comprehensive guides and technical specifications for our cutting-edge h
 Dive into our step-by-step tutorials designed to accelerate your journey, from unboxing your first actuator to building sophisticated projects. Expand your expertise through our curated learning materials, covering everything from fundamental concepts to advanced training techniques and groundbreaking research papers.
 
 Whether you're developing innovative applications, conducting research, or simply curious about the future of robotics, you'll find all the resources you need right here.
+
+<figure><img src=".gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
