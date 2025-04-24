@@ -55,6 +55,8 @@ You have now successfully unboxed your ThermoFlex™ Mk.1 Evaluation Kit. Great 
 
 > **P.S.** The cable boxes also need to be opened, but instructions for that are not included here—good luck!
 
+<figure><img src="../../.gitbook/assets/Heading (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Setting Up Your Node
 
 To set up your ThermoFlex™ Node for communication with your computer:
@@ -143,5 +145,7 @@ We recommending running program once before connecting the muscle to the node. Y
   Try integrating ThermoFlex™ into your projects and explore the creative possibilities of artificial muscle actuation.
 
 You are now ready to start working with ThermoFlex. Enjoy building cool projects!
+
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ***
