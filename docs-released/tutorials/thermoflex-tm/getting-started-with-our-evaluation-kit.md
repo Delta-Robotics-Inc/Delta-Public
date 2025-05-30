@@ -72,13 +72,15 @@ Once your node is connected, your system is ready to interface with the ThermoFl
 
 ### Installation of the ThermoFlex™ Python API
 
+Make sure that you have [Python installed](https://www.python.org/) first. Programming the Node Controller is made simple with python scripting. We are working on a way for you to write functionality for the Node controller using the Arduino IDE as well, but the experience is far easier using python over USB. Reach out to us if you have a preferred control scheme and we can help set it up.
+
 Install the ThermoFlex™ Python API using pip:
 
 ```bash
 pip install thermoflex
 ```
 
-Alternatively, you can download the package from our [GitHub Releases Page](https://github.com/Delta-Robotics-Inc/ThermoFlex-Python-API) and install it manually using pip.
+Alternatively, you can download the package from our [GitHub Releases Page](https://github.com/Delta-Robotics-Inc/ThermoFlex-Python-API) and install it manually using pip (advanced method).
 
 ### Running Your First Program
 
