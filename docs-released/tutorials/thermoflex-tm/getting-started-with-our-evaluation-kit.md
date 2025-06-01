@@ -88,8 +88,6 @@ After setup, you can test the connection and control your ThermoFlex™ device w
 
 {% code title="first_program.py" %}
 ```python
-import thermoflex
-
 import thermoflex as tf
 import time
 
