@@ -219,12 +219,12 @@ print("Activating Muscle!")
 muscle.setMode("percent")  # Set control mode to % power (0 to 1 range)
 muscle.setSetpoint("percent", 0.5)  # Command 50% power
 muscle.setEnable(True)  # Enable the muscle (starts heating)
-tf.delay(5)  # Wait 5 seconds — muscle should contract
+tf.delay(5)  # Run for 5 seconds at 50% — muscle should contract
 
 # Reduce power to avoid overheating
-muscle.setSetpoint("percent", 0.1)  # Drop to 10% to cool slightly
+muscle.setSetpoint("percent", 0.1)  # Drop to 10%
 
-tf.delay(15)  # Wait 15 seconds — adjust based on your setup and safety
+tf.delay(10)  # Run for 10 seconds at 10%  — adjust based on your setup and safety
 
 # Stop the Muscle
 print("Stopping Muscle!")
