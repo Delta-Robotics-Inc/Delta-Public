@@ -148,11 +148,13 @@ To run it:
 * Open **Command Prompt** (or Terminal, or PowerShell)
 * Navigate to the folder where your script is saved:
 
+{% code overflow="wrap" %}
 ```bash
 cd C:\Users\YourName\Documents\ThermoFlex
 
 > ⚠️ **Don’t just copy and paste this!** Replace `YourName` with your actual Windows username or navigate to wherever you saved the file. If you right-click your file, you can copy the path.
 ```
+{% endcode %}
 
 * Run the program:
 
