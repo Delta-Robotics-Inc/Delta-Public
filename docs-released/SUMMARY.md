@@ -17,6 +17,7 @@
 * [Tutorials](tutorials/README.md)
   * [ThermoFlex™](tutorials/thermoflex-tm/README.md)
     * [Getting Started with our Evaluation Kit](tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md)
+    * [Uninstall ThermoFlex™ API](tutorials/thermoflex-tm/uninstall-thermoflex-tm-api.md)
   * [Projects](tutorials/projects.md)
 * [Learn](learn/README.md)
   * [What is Nitinol?](learn/nitinol-faq.md)
