@@ -116,14 +116,10 @@ Python 3.11.9
 Once Python is in place, install our API like so:
 
 ```bash
-pip install thermoflex
+python -m pip install thermoflex
 ```
 
 Want to live dangerously? You can also clone it from [GitHub](https://github.com/Delta-Robotics-Inc/ThermoFlex-Python-API) and install it manually:
-
-```bash
-pip install .
-```
 
 ***
 
