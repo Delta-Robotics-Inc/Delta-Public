@@ -62,7 +62,7 @@ Welcome to the wonderful world of soft robotics, where electricity meets movemen
 Let’s make sure your computer isn’t stuck in the Stone Age:
 
 * **Operating System:** Windows 10/11, macOS, or Linux (Ubuntu recommended)
-* **Python:** Version 3.8 or later (we recommend 3.11 for best results)
+* **Python:** Version 3.8 or later (we recommend 3.13 for best results)
 * **Permissions:** Admin privileges for driver installation
 * **USB Port:** Yes, you need one. Preferably not already used for your desk fan.
 
@@ -95,7 +95,7 @@ If your computer didn’t pop up a cheerful "device connected" notification, you
 
 Let’s get Python talking to your Node. If you already have it installed, you can skip this part and jump ahead like a seasoned time traveler.
 
-1. Download Python from [python.org](https://www.python.org/downloads/) (3.11+ recommended).
+1. Download Python from [python.org](https://www.python.org/downloads/) (3.13+ recommended).
 2. During install, make sure to check `Add Python to PATH`. That’s not a suggestion.
 3. Open a terminal or command prompt and run:
 
@@ -106,7 +106,7 @@ python --version
 You should see something like:
 
 ```bash
-Python 3.11.9
+Python 3.13.3
 ```
 
 ***
