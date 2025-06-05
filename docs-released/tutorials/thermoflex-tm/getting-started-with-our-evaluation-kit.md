@@ -1,14 +1,19 @@
 ---
-description: A guide of unboxing and operations for our ThermoFlex™ Mk.1 Evaluation Kit
+description: >-
+  Welcome to the wonderful world of soft robotics, where electricity meets
+  movement and your muscles are made of metal. This guide will walk you through
+  setting up your ThermoFlex™ Node and running your
 ---
 
 # Getting Started with our Evaluation Kit
 
-[Get your ThermoFlex Evaluation Kit here](https://www.deltaroboticsinc.com/product-page/thermoflex-kit)
+We've got you covered with a full walkthrough.
 
-<figure><img src="../../.gitbook/assets/2025-02-15 15.12.49.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/W6FHWFl4omM?si=5l8TAK0hUYiKMwIX" %}
 
-Welcome to the ThermoFlex™ ecosystem! This guide will walk you through everything you need—from unboxing your ThermoFlex™ device to running your first Python program.
+***
+
+## Unboxing the ThermoFlex™ Mk.1 Evaluation Kit
 
 ### Introduction
 
@@ -53,7 +58,7 @@ You have now successfully unboxed your ThermoFlex™ Mk.1 Evaluation Kit. Great 
 
 ## Set up your ThermoFlex™ Node.
 
-Welcome to the wonderful world of soft robotics, where electricity meets movement and your muscles are made of metal. This part of the guide will walk you through setting up your ThermoFlex™ Node and running your first program without screaming into the void.
+This part of the guide will walk you through setting up your ThermoFlex™ Node and running your first program without screaming into the void.
 
 ***
 
