@@ -77,7 +77,7 @@ Let’s make sure your computer isn’t stuck in the Stone Age:
 
 Use the included USB-C cable to plug the ThermoFlex™ Node into your computer. It’ll light up. If it doesn’t, check the cable or try a different port.
 
-> **GIF goes here:** (Insert gif of LED pattern when it powers up successfully — a pleasant little dance to say "I'm alive!")
+> **GIF goes here:** (Insert gif of LED pattern when it powers up successfully, a pleasant little dance to say "I'm alive!")
 
 ***
 
@@ -88,7 +88,7 @@ If your computer didn’t pop up a cheerful "device connected" notification, you
 **Step-by-step:**
 
 1. Hit `Win + R`, type `devmgmt.msc`, and hit Enter.
-2. Look under `Ports (COM & LPT)` — you should see something like **USB Serial Device (COMx)**.
+2. Look under `Ports (COM & LPT)`  You should see something like **USB Serial Device (COMx)**.
 3. If it’s missing or has a yellow ⚠️, check out this [general USB driver troubleshooting guide from SparkFun](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers/all) for help identifying and installing the right driver for your system.
 4. Unplug and replug the Node. You should now see it listed properly.
 
@@ -130,7 +130,7 @@ Want to live dangerously? You can also clone it from [GitHub](https://github.com
 
 ### 6. Prep Your Environment
 
-You’ve got two main ways to write and run your first script — choose your own adventure:
+You’ve got two main ways to write and run your first script, choose your own adventure:
 
 #### Option 1: Use an Editor or IDE (Recommended)
 
@@ -294,7 +294,7 @@ Or grab it here: [simple example on GitHub](https://github.com/Delta-Robotics-In
 
 ***
 
-Now go forth and actuate. Whether you’re building a bionic arm, a robot tentacle, or just trying to impress your cat — you’re officially part of the future.
+Now go forth and actuate. Whether you’re building a bionic arm, a robot tentacle, or just trying to impress your cat, you’re officially part of the future.
 
 Welcome to Delta Robotics.
 
