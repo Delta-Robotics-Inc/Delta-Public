@@ -177,23 +177,66 @@ If you're just testing or playing around:
 
 ***
 
-## Run your first program using the ThermoFlex™ Python API
+## Run Your First Program Using the ThermoFlex™ Python API
 
-### 1. Run the Node Before Connecting a Muscle
+### **1. Run the Node&#x20;**_**Before**_**&#x20;Connecting a Muscle**
 
-Before plugging in a ThermoFlex Muscle, run the code once to verify things are working.
+🚨🚨🚨 **READ THIS FIRST, OR RISK FRYING YOUR MUSCLE** 🚨🚨🚨
 
-> ⚠️ **Warning:** The example script in Step 8 does _not_ include temperature control. If you leave the muscle powered for too long, it can overheat — especially at higher setpoints. That’s why we strongly recommend testing the program without a muscle first. Once you're confident it runs correctly, connect the muscle and go **low and slow** until you dial in the right settings.
->
-> 🚨 We've tested muscles under a 25 lb load, and they can reach operating temperature in **about two seconds** from room temp. That's fast — and hot. Until you’re confident in your setup, don’t exceed that load or duration. If you're unsure, send us a message with what you're trying to do and we’ll help you out.
->
-> 💡 **Fun fact:** Both the applied load and the starting temperature of the muscle will affect how quickly it heats up. So if your room is hot or your robot is jacked, it may respond faster than expected!
+This step is not optional. If you skip ahead, there's a high chance you'll destroy your first ThermoFlex Muscle.
 
-If all’s good, Port 0’s LED will glow.
+Before plugging in a ThermoFlex Muscle, you _must_ run your code once with nothing connected. This verifies the Node is alive and responding before you start slinging amps. Muscles can overheat in seconds; you don’t get a second chance.
 
-> **GIF/photo goes here:** (Insert photo of Port 0 LED lighting up — bonus points for dramatic lighting)
+***
 
-Only _after_ the light show should you connect a muscle to Port 0.
+⚠️ **Warning: No Temperature Control = Fried Muscle**
+
+The example script in Step 8 doesn’t include temperature regulation. If you leave a muscle powered for more than a couple of seconds, especially at higher setpoints, it can overheat fast.\
+**Always** test your program without a muscle first. Once you’re confident it runs correctly, connect the muscle and go _low and slow_ until you dial in the right settings.
+
+***
+
+**High-Discharge LiPo? You Might Cook It Instantly**
+
+We’ve had users burn out muscles in seconds after switching to a LiPo with a higher discharge (C) rating, even when the voltage and capacity were the same.
+
+**Here’s why:**\
+The ThermoFlex Node doesn’t limit current — it delivers whatever your power source allows. A high-discharge LiPo can dump a huge surge of current, and that extra power can fry your muscles before you even blink.
+
+Here’s what we recommend:
+
+* Use a 3S 5200mAh 80C LiPo with an XT60 plug — this is what we use for testing.
+* If you're just starting out, use a **lower** C-rating to stay safe while learning the system.
+* Include an **inline fuse** or **current-limiting circuit** if possible.
+* Add a **load sensor** and **thermal feedback** loop before applying heavy loads (these are still in development).
+
+***
+
+**Thermal Behavior 101**\
+Both the applied load and the starting temperature affect how quickly the muscle heats up. If your room is hot or your robot is already warm, it may respond faster than expected.
+
+We’ve tested muscles under a 25 lb load, and they can reach operating temperature in about 2 seconds from room temperature. That’s fast. And that’s hot.
+
+***
+
+**Ongoing Updates in Development**
+
+Good news: many of these risks will be solved soon. We're actively developing firmware updates and safer control software that will handle temperature feedback, current limits, and safer defaults right out of the box.
+
+But for now, this guide will get you up and running.
+
+If you made it this far, congrats. That means you're officially ahead of the curve (and probably ahead of your time). We're a small team working on this tech during nights and weekends, and we’re making it better as fast as we can. Your feedback and patience mean the world.
+
+***
+
+**✅ Check the Node First**
+
+Once your program runs:
+
+* Port 0’s LED will glow to signal success\
+  (Insert dramatic photo or GIF of the LED here)
+
+Only after the light show should you connect a muscle to Port 0.
 
 ***
 
