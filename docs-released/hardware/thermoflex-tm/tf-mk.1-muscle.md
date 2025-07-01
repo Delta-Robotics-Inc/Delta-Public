@@ -8,7 +8,7 @@ description: >-
 
 **Pronunciation:** _Ther-moh-fleks mark one muscle_
 
-Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
+Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit/) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
 
 <figure><img src="../../.gitbook/assets/2025-02-15 15.12_edited.png" alt="" width="375"><figcaption></figcaption></figure>
 

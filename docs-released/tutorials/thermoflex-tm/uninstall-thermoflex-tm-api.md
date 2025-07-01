@@ -4,7 +4,7 @@ description: How to completely remove the ThermoFlex™ Python API and its Pytho
 
 # Uninstall ThermoFlex™ API
 
-We get it — sometimes you just need a clean slate. Whether you're troubleshooting an issue or preparing a fresh install for your next big demo, here’s how to completely remove the ThermoFlex™ Python API and its Python runtime.
+We get it, sometimes you just need a clean slate. Whether you're troubleshooting an issue or preparing a fresh install for your next big demo, here’s how to completely remove the ThermoFlex™ Python API and its Python runtime.
 
 This guide walks you through uninstalling:
 
@@ -107,4 +107,4 @@ If it returns nothing, you’re fully clean.
 
 ### Next Steps
 
-When you're ready, you can [reinstall Python](https://www.python.org/downloads/) and follow our [Getting Started Guide](https://docs.deltaroboticsinc.com/tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit) to set up your environment again — fresh and conflict-free.
+When you're ready, you can [reinstall Python](https://www.python.org/downloads/) and follow our [Getting Started Guide](https://docs.deltaroboticsinc.com/tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit) to set up your environment again, fresh and conflict-free.

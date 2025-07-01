@@ -9,6 +9,6 @@ icon: fire
 
 
 
-Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit.md) to see what's possible with the ThermoFlex™ kit, Node Controller, and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
+Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit/) to see what's possible with the ThermoFlex™ kit, Node Controller, and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
 
 <figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
