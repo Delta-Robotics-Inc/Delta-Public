@@ -7,8 +7,6 @@ description: >-
 
 # TF Node Controller
 
-**Pronunciation:** _THER-moh-fleks nohd kun-TROH-lur_
-
 Also visit our [getting started guide](../../tutorials/thermoflex-tm/getting-started-with-our-evaluation-kit/) to see what's possible with the ThermoFlex™ kit and accompanying [Python API](../../software/thermoflex-tm-python-api.md).
 
 <figure><img src="../../.gitbook/assets/IMG_2907_edited_edited.png" alt="" width="375"><figcaption></figcaption></figure>
