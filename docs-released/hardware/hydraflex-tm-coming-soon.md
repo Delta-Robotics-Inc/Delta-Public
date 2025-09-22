@@ -1,5 +1,5 @@
 ---
-description: A mess-free modular hydraulic smart muscle system.
+description: A modular hydraulic muscle system.
 icon: droplet
 ---
 

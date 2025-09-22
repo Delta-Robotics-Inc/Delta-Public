@@ -5,20 +5,6 @@ description: >-
   get started with our artificial muscle tech.
 cover: ../../.gitbook/assets/IMG_8416.JPEG
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Welcome to Delta Docs

@@ -1,12 +1,13 @@
 ---
-description: A plug-and-play smart pneumatic muscle system.
+description: A modular pneumatic muscle system.
 icon: wind
 ---
 
 # AeroFlex™ (Coming Soon)
 
-### Concept Art:
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Ryzers Glam Shot.JPEG" alt=""><figcaption><p>Lower body exo-skeleton using a prototype AeroFlex™ pneumatic muscle system.</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Concept of Pneumatic AeroFlex muscle in active development by Delta Robotics</p></figcaption></figure>
+<div align="center" data-full-width="false"><figure><img src="../.gitbook/assets/Muscle Test.gif" alt=""><figcaption><p>Testing Multi-Filiment Designs</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_3342.JPEG" alt=""><figcaption><p>Early AeroFlex™ Prototypes</p></figcaption></figure>
+
