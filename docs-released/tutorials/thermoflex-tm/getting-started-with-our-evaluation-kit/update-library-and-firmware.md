@@ -89,7 +89,7 @@ You’ve got two main ways to write and run your first script, choose your own a
 
 1. Open your editor and create a new file
 2. Name it `first_program.py`
-3. Copy and paste the sample code from Step 8
+3. Copy and paste the sample code from the next page.
 4. Save the file
 
 To run it:
